@@ -16,7 +16,10 @@
     <img src="https://wakatime.com/share/@702778c4-71bb-46f1-ba07-1e5464c2a009/8ac684dd-4ec6-4d00-8d5b-25dea9154937.svg" height="400"/>
   </p>
 </details>
-
+<details>
+  <summary>Latest Github Activity...</summary>
+  <!--START_SECTION:activity-->
+</details>
 <hr>
 
 <p align="center">
