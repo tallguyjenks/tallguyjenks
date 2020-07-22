@@ -9,11 +9,11 @@
 
 <!-- Content Body -->
 
-<p>
 :wave: Hello, My name is Bryan
+
 I have a variety of interests and I am always learning something new.
-I love 
-</p>
+
+I love <img src="img/R.svg" height="15">
 
 <!-- Collapseable sections -->
 <hr>
