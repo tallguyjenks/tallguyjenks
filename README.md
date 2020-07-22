@@ -1,9 +1,22 @@
-### Hi there 👋
+<!-- Header "hello world" image -->
+<p align="center">
+  <img src="img/hello.gif"/>
+</p>
 
-
-
+<!-- Header Text -->
+<h3>More :coffee: Less :zzz:</h3>
 <hr>
 
+<!-- Content Body -->
+
+<p>
+:wave: Hello, My name is Bryan
+I have a variety of interests and I am always learning something new.
+I love 
+</p>
+
+<!-- Collapseable sections -->
+<hr>
 <details>
   <summary>Github Statistics...</summary>
   <p align = "center">
@@ -16,12 +29,9 @@
     <img src="https://wakatime.com/share/@702778c4-71bb-46f1-ba07-1e5464c2a009/8ac684dd-4ec6-4d00-8d5b-25dea9154937.svg" height="400"/>
   </p>
 </details>
-<details>
-  <summary>Latest Github Activity...</summary>
-  <!--START_SECTION:activity-->
-</details>
 <hr>
 
+<!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
