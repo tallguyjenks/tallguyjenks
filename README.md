@@ -9,11 +9,12 @@
 
 <!-- Content Body -->
 
-:wave: Hello, My name is Bryan
+
+:wave: Hello, My name is Bryan 
+
+:heart: <img src="img/R.svg" height="20"/>
 
 I have a variety of interests and I am always learning something new.
-
-I love <img src="img/R.svg" height="15">
 
 <!-- Collapseable sections -->
 <hr>
