@@ -1,14 +1,11 @@
-<!-- Header "hello world" image -->
+<!--
+
 <p align="center">
   <img src="img/hello.gif"/>
 </p>
 
-<!-- Header Text -->
 <h3>More :coffee: Less :zzz:</h3>
 <hr>
-
-<!-- Content Body -->
-
 
 :wave: Hello, My name is Bryan 
 
@@ -16,7 +13,6 @@
 
 I have a variety of interests and I am always learning something new.
 
-<!-- Collapseable sections -->
 <hr>
 <details>
   <summary>Github Statistics...</summary>
@@ -31,7 +27,7 @@ I have a variety of interests and I am always learning something new.
   </p>
 </details>
 <hr>
-
+-->
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
