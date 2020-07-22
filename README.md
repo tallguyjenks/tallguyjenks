@@ -42,19 +42,12 @@
   <a href="https://www.youtube.com/channel/UCfhSB16X9MXhzSFe_H7XbHg">
     <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
   </a>
-</p>
-
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
-
-</p>
-
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tallguyjenks" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  <a href="https://orcid.org/0000-0002-9604-3069">
+    <img src="https://img.icons8.com/material-outlined/30/000000/camera-addon-identification.png"/>
+  </a>
+  <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="30" width="30" />
   </a>
 </p>
+
 
