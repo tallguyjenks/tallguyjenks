@@ -1,52 +1,15 @@
 ### Hi there 👋
 
-<!--
-**tallguyjenks/tallguyjenks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=tallguyjenks&show_icons=true&theme=gruvbox)](https://github.com/tallguyjenks/)
 
 
 
-
-
-<p>
-  <a href="https://www.twitter.com/Tall_Viking">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/bryanjenks">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.instagram.com/tallguyjenks/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a>
-</p>
-
-
-
-
-
-<p align = "center">
-  
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tallguyjenks&show_icons=true&hide_border=true">
-  <p>
-  
-  </p>
-</p>
-
-
-<br><br><br><br><br><br><br><br>
-
-
+<hr>
 
 <details>
   <summary>Language Statistics...</summary><br/>
@@ -55,13 +18,43 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-----
+<hr>
+
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+  <a href= "https://github.com/tallguyjenks/">
+    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/bryanjenks/">
+    <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/Tall_Viking">
+    <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
+  </a>
+  <a href= "https://www.bryanjenks.xyz">
+    <img src="https://img.icons8.com/material-outlined/30/000000/geography.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/tallguyjenks">
+    <img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCfhSB16X9MXhzSFe_H7XbHg">
+    <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
+  </a>
+</p>
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+</p>
+
+</p>
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/tallguyjenks" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
   </a>
-  <a href="https://www.patreon.com/bryanjenks?fan_landing=true">
-    <img src="/img/becomeapatronbanner.png" height="60px"/>
-  </a>
 </p>
+
