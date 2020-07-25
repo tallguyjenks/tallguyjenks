@@ -1,15 +1,7 @@
-
-
-<p align="center">
-  <img src="img/hello.gif"/>
-</p>
-
 <h3>More :coffee: Less :zzz:</h3>
 <hr>
 
-:wave: Hello, My name is Bryan 
-
-:heart: <img src="img/R.svg" height="20"/>
+:wave: Hello, My name is Bryan and i :heart: **R**
 
 I have a variety of interests and I am always learning something new.
 
