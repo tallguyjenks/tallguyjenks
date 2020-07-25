@@ -1,3 +1,4 @@
+<!--
 <h3>More :coffee: Less :zzz:</h3>
 <hr>
 
@@ -19,7 +20,7 @@ I have a variety of interests and I am always learning something new.
   </p>
 </details>
 <hr>
-
+-->
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
