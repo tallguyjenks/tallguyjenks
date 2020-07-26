@@ -1,33 +1,3 @@
-<!--
-<h3>More :coffee: Less :zzz:</h3>
-<hr>
-
-:wave: Hello, My name is Bryan and i :heart: **R**
-
-I have a variety of interests and I am always learning something new.
-
-<hr>
-<details>
-  <summary>Github Statistics...</summary>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tallguyjenks&show_icons=true"/>
-  </p>
-</details>
-<details>
-  <summary>Language Statistics...</summary><br/>
-  <p align = "center">
-    <img src="https://wakatime.com/share/@702778c4-71bb-46f1-ba07-1e5464c2a009/8ac684dd-4ec6-4d00-8d5b-25dea9154937.svg" height="400"/>
-  </p>
-</details>
-<hr>
--->
-
-
-  <p align = "center">
-    <img src="/img/filigre.png"/>
-  </p>
-  
-  
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
@@ -68,8 +38,3 @@ I have a variety of interests and I am always learning something new.
   </a>
   
 </p>
-
-
-  <p align = "center">
-    <img src="/img/filigre2.png"/>
-  </p>
