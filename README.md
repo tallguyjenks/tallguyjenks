@@ -21,9 +21,13 @@ I have a variety of interests and I am always learning something new.
 </details>
 <hr>
 -->
+
+
   <p align = "center">
-    <img src="/img/filigre.png" height="400"/>
+    <img src="/img/filigre.png"/>
   </p>
+  
+  
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
@@ -66,3 +70,6 @@ I have a variety of interests and I am always learning something new.
 </p>
 
 
+  <p align = "center">
+    <img src="/img/filigre2.png"/>
+  </p>
