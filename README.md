@@ -9,7 +9,7 @@
   <a href= "https://www.linkedin.com/in/bryanjenks/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
-  <a href= "https://twitter.com/Tall_Viking">
+  <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
   </a>
   <a href= "https://www.bryanjenks.xyz">
@@ -18,7 +18,7 @@
   <a href="https://www.buymeacoffee.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCfhSB16X9MXhzSFe_H7XbHg">
+  <a href="https://www.youtube.com/c/BryanJenksTech">
     <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
   </a>
   <a href="https://orcid.org/0000-0002-9604-3069">
@@ -40,8 +40,8 @@
 </p>
 
 ---
-
-<h3 align="center"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/> Latest YouTube Videos <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></h3>
+  
+<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
 - [My Favorite Academic Resources OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
@@ -53,7 +53,7 @@
 
 ---
 
-<h3 align="center"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/> Latest Activity <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></h3>
+<h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
