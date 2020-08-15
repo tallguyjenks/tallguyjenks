@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="center">🎥 Latest YouTube Videos 🎥</h3>
+<h3 align="center"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/> Latest YouTube Videos <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></h3>
 
 <!-- YOUTUBE:START -->
 - [My Favorite Academic Resources OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
@@ -50,5 +50,12 @@
 - [How I Set Up My 2020 Macbook Pro 16](https://www.youtube.com/watch?v=msqCHPEQRjQ)
 - [How To Use Github's New Personal README and Wakatime](https://www.youtube.com/watch?v=jazcHIaitfE)
 <!-- YOUTUBE:END -->
+
+---
+
+<h3 align="center"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/> Latest Activity <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
