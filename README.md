@@ -62,5 +62,3 @@
 4. 🎉 Merged PR [#35](https://github.com//tallguyjenks/fla.sh/pull/35) in [tallguyjenks/fla.sh](https://github.com//tallguyjenks/fla.sh)
 5. ❗️ Opened issue [#34](https://github.com//tallguyjenks/fla.sh/issues/34) in [tallguyjenks/fla.sh](https://github.com//tallguyjenks/fla.sh)
 <!--END_SECTION:activity-->
-
----
