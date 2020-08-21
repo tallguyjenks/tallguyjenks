@@ -46,7 +46,7 @@
 <!-- YOUTUBE:START -->
 - [The Best Academic Resources & Citation Managers: OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
 - [My First Week At WGU (Western Governors University), Coffee, And Channel Updates](https://www.youtube.com/watch?v=JyVkqdEcnSQ)
-- [How I Use My Get Things Done (GTD) Task Management System (TaskWarrior)](https://www.youtube.com/watch?v=8I7nQmKAWpM)
+- [My Get Things Done (GTD) Task Management System Using TaskWarrior](https://www.youtube.com/watch?v=8I7nQmKAWpM)
 - [How I Set Up My 2020 Macbook Pro 16](https://www.youtube.com/watch?v=msqCHPEQRjQ)
 - [How To Use Github's New Personal README and Wakatime](https://www.youtube.com/watch?v=jazcHIaitfE)
 <!-- YOUTUBE:END -->
