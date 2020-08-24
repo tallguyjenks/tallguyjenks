@@ -44,11 +44,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [R Package Review Episode 5: TodoR](https://www.youtube.com/watch?v=f4mTYyD2C-8)
 - [The Best Academic Resources & Citation Managers: OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
 - [My First Week At WGU (Western Governors University), Coffee, And Channel Updates](https://www.youtube.com/watch?v=JyVkqdEcnSQ)
 - [My Get Things Done (GTD) Task Management System Using TaskWarrior](https://www.youtube.com/watch?v=8I7nQmKAWpM)
 - [How I Set Up My 2020 Macbook Pro 16](https://www.youtube.com/watch?v=msqCHPEQRjQ)
-- [How To Use Github's New Personal README and Wakatime](https://www.youtube.com/watch?v=jazcHIaitfE)
 <!-- YOUTUBE:END -->
 
 ---
