@@ -30,9 +30,6 @@
   <a href="mailto:bryanjenks@protonmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
   </a>
-  <a href="https://medium.com/@bryanjenks_60163">
-    <img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/>
-  </a>
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
