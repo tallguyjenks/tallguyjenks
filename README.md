@@ -30,7 +30,7 @@
   <a href="mailto:bryanjenks@protonmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
   </a>
-  <a href="https://medium.com/@bryanjenks_60163">
+  <a href="https://medium.com/@tallguyjenks">
     <img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/>
   </a>
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
