@@ -56,9 +56,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com//Pseudonium/Obsidian_to_Anki/issues/10) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-2. ❗️ Opened issue [#10](https://github.com//Pseudonium/Obsidian_to_Anki/issues/10) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-3. ❗️ Closed issue [#10](https://github.com//tallguyjenks/tallguyjenks.github.io/issues/10) in [tallguyjenks/tallguyjenks.github.io](https://github.com//tallguyjenks/tallguyjenks.github.io)
-4. 🗣 Commented on [#10](https://github.com//tallguyjenks/tallguyjenks.github.io/issues/10) in [tallguyjenks/tallguyjenks.github.io](https://github.com//tallguyjenks/tallguyjenks.github.io)
-5. ❗️ Closed issue [#9](https://github.com//tallguyjenks/tallguyjenks.github.io/issues/9) in [tallguyjenks/tallguyjenks.github.io](https://github.com//tallguyjenks/tallguyjenks.github.io)
+1. ❗️ Opened issue [#14](https://github.com//Pseudonium/Obsidian_to_Anki/issues/14) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+2. 🗣 Commented on [#10](https://github.com//Pseudonium/Obsidian_to_Anki/issues/10) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+3. 💪 Opened PR [#13](https://github.com//Pseudonium/Obsidian_to_Anki/pull/13) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+4. 💪 Opened PR [#192](https://github.com//FooSoft/anki-connect/pull/192) in [FooSoft/anki-connect](https://github.com//FooSoft/anki-connect)
+5. 🗣 Commented on [#10](https://github.com//Pseudonium/Obsidian_to_Anki/issues/10) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
