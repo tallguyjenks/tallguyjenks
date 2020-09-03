@@ -56,9 +56,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-2. 🗣 Commented on [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-3. ❗️ Opened issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-4. 💪 Opened PR [#272](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#34](https://github.com//tallguyjenks/fla.sh/issues/34) in [tallguyjenks/fla.sh](https://github.com//tallguyjenks/fla.sh)
+1. 💪 Opened PR [#2](https://github.com//cotemaxime/obsidian-amethyst/pull/2) in [cotemaxime/obsidian-amethyst](https://github.com//cotemaxime/obsidian-amethyst)
+2. ❗️ Closed issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
+3. 🗣 Commented on [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
+4. ❗️ Opened issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
+5. 💪 Opened PR [#272](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
