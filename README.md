@@ -56,9 +56,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-2. 🗣 Commented on [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-3. ❗️ Opened issue [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-4. ❗️ Opened issue [#14](https://github.com//Pseudonium/Obsidian_to_Anki/issues/14) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-5. 🗣 Commented on [#10](https://github.com//Pseudonium/Obsidian_to_Anki/issues/10) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+1. 🗣 Commented on [#14](https://github.com//Pseudonium/Obsidian_to_Anki/issues/14) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+2. ❗️ Closed issue [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+3. 🗣 Commented on [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+4. ❗️ Opened issue [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+5. ❗️ Opened issue [#14](https://github.com//Pseudonium/Obsidian_to_Anki/issues/14) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
