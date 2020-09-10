@@ -44,11 +44,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [CompTIA A+ Certification Study Session (Anki and Ucertify)](https://www.youtube.com/watch?v=OF7gqBJ0DT4)
 - [RMarkdown Parameterized Reports Will Save You HOURS of Work](https://www.youtube.com/watch?v=oFKb8WYDLB0)
 - [Interview With Bryan of Norseman Leather Works](https://www.youtube.com/watch?v=erY8W6EGBYw)
 - [R Package Review Episode 6: Patchwork](https://www.youtube.com/watch?v=mGz95eSRrwI)
 - [R Package Review Episode 5: TodoR](https://www.youtube.com/watch?v=f4mTYyD2C-8)
-- [The Best Academic Resources & Citation Managers: OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
 <!-- YOUTUBE:END -->
 
 ---
