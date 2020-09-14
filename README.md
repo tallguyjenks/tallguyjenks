@@ -44,11 +44,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder)](https://www.youtube.com/watch?v=5uI3xymx4do)
 - [Zettelkasten Work in Obsidian for Research](https://www.youtube.com/watch?v=rNMMwaKgz18)
 - [RMarkdown Parameterized Reports Will Save You HOURS of Work](https://www.youtube.com/watch?v=oFKb8WYDLB0)
 - [Interview With Bryan of Norseman Leather Works](https://www.youtube.com/watch?v=erY8W6EGBYw)
 - [R Package Review Episode 6: Patchwork](https://www.youtube.com/watch?v=mGz95eSRrwI)
-- [R Package Review Episode 5: TodoR](https://www.youtube.com/watch?v=f4mTYyD2C-8)
 <!-- YOUTUBE:END -->
 
 ---
