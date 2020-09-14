@@ -57,8 +57,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-2. ❗️ Opened issue [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-3. 🗣 Commented on [#14](https://github.com//Pseudonium/Obsidian_to_Anki/issues/14) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-4. ❗️ Closed issue [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
-5. 🗣 Commented on [#15](https://github.com//Pseudonium/Obsidian_to_Anki/issues/15) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+2. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+3. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+4. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+5. ❗️ Opened issue [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
