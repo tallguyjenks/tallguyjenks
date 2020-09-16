@@ -45,7 +45,7 @@
 
 <!-- YOUTUBE:START -->
 - [Zettelkasten Research Work in Obsidian](https://www.youtube.com/watch?v=9hQ8ZdOOljg)
-- [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder)](https://www.youtube.com/watch?v=5uI3xymx4do)
+- [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder) [Time Stamped]](https://www.youtube.com/watch?v=5uI3xymx4do)
 - [RMarkdown Parameterized Reports Will Save You HOURS of Work](https://www.youtube.com/watch?v=oFKb8WYDLB0)
 - [Interview With Bryan of Norseman Leather Works](https://www.youtube.com/watch?v=erY8W6EGBYw)
 - [R Package Review Episode 6: Patchwork](https://www.youtube.com/watch?v=mGz95eSRrwI)
