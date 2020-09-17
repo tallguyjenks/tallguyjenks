@@ -34,7 +34,7 @@
   <a href="mailto:bryanjenks@protonmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
   </a>
-  <a href="https://medium.com/@bryanjenks_60163">
+  <a href="https://medium.com/@tallguyjenks">
     <img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/>
   </a>
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
-- [R Package Review Episode 6: Patchwork](https://www.youtube.com/watch?v=mGz95eSRrwI)
-- [R Package Review Episode 5: TodoR](https://www.youtube.com/watch?v=f4mTYyD2C-8)
-- [The Best Academic Resources & Citation Managers: OrcID, Zotero, Mendeley & More!](https://www.youtube.com/watch?v=Mz21UNoLNu4)
-- [My First Week At WGU (Western Governors University), Coffee, And Channel Updates](https://www.youtube.com/watch?v=JyVkqdEcnSQ)
-- [My Get Things Done (GTD) Task Management System Using TaskWarrior](https://www.youtube.com/watch?v=8I7nQmKAWpM)
+- [Zettelkasten Research Work in Obsidian | VOD](https://www.youtube.com/watch?v=9hQ8ZdOOljg)
+- [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder) [Time Stamped]](https://www.youtube.com/watch?v=5uI3xymx4do)
+- [Welcome Back](https://www.youtube.com/watch?v=DUBAVIqYNj8)
+- [Welcome To My Channel](https://www.youtube.com/watch?v=8ux-AH59xEo)
+- [Zettelkasten Work in Obsidian for Research | VOD](https://www.youtube.com/watch?v=rNMMwaKgz18)
 <!-- YOUTUBE:END -->
 
 ---
@@ -60,9 +60,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-2. 🗣 Commented on [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-3. ❗️ Opened issue [#7](https://github.com//tallguyjenks/runes/issues/7) in [tallguyjenks/runes](https://github.com//tallguyjenks/runes)
-4. 💪 Opened PR [#272](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#34](https://github.com//tallguyjenks/fla.sh/issues/34) in [tallguyjenks/fla.sh](https://github.com//tallguyjenks/fla.sh)
+1. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+2. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+3. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+4. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
+5. 🗣 Commented on [#42](https://github.com//Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com//Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
