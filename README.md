@@ -1,7 +1,3 @@
-<p align="center">
-<img src="banner.png"/>
-</p>
-
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
