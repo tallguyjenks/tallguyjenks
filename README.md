@@ -44,11 +44,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [RStudio Crash Course for beginners 2020 | How To Use The IDE](https://www.youtube.com/watch?v=PXiY8muVUec)
 - [Zettelkasten Research Work in Obsidian | VOD](https://www.youtube.com/watch?v=9hQ8ZdOOljg)
 - [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder) [Time Stamped]](https://www.youtube.com/watch?v=5uI3xymx4do)
 - [Zettelkasten Work in Obsidian for Research | VOD](https://www.youtube.com/watch?v=rNMMwaKgz18)
 - [RMarkdown Parameterized Reports Will Save You HOURS of Work](https://www.youtube.com/watch?v=oFKb8WYDLB0)
-- [Interview With Bryan of Norseman Leather Works](https://www.youtube.com/watch?v=erY8W6EGBYw)
 <!-- YOUTUBE:END -->
 
 ---
