@@ -44,11 +44,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Obsidian VS Roam Research: Why I Chose Obsidian](https://www.youtube.com/watch?v=S1zU-sA4u74)
 - [Leaning C++ For School | FML | VOD](https://www.youtube.com/watch?v=ABLxBXeYy3s)
 - [RStudio Crash Course for beginners 2020 | How To Use The IDE](https://www.youtube.com/watch?v=PXiY8muVUec)
 - [Zettelkasten Research Work in Obsidian | VOD](https://www.youtube.com/watch?v=9hQ8ZdOOljg)
 - [How I Live With Adult ADHD (Attention Deficit Hyperactivity Disorder) [Time Stamped]](https://www.youtube.com/watch?v=5uI3xymx4do)
-- [Zettelkasten Work in Obsidian for Research | VOD](https://www.youtube.com/watch?v=rNMMwaKgz18)
 <!-- YOUTUBE:END -->
 
 ---
