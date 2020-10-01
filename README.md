@@ -66,9 +66,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/tallguyjenks/BusinessCard/issues/5) in [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard)
-2. ❗️ Closed issue [#5](https://github.com/tallguyjenks/BusinessCard/issues/5) in [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard)
-3. 💪 Opened PR [#56](https://github.com/EddieJaoudeCommunity/gh-action-community/pull/56) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
-4. 🗣 Commented on [#1](https://github.com/adiman9/adiman9/issues/1) in [adiman9/adiman9](https://github.com/adiman9/adiman9)
-5. ❗️ Opened issue [#1](https://github.com/BryanJenksCommunity/FAQ/issues/1) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. 🗣 Commented on [#56](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/56) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+2. 🗣 Commented on [#5](https://github.com/tallguyjenks/BusinessCard/issues/5) in [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard)
+3. ❗️ Closed issue [#5](https://github.com/tallguyjenks/BusinessCard/issues/5) in [tallguyjenks/BusinessCard](https://github.com/tallguyjenks/BusinessCard)
+4. 💪 Opened PR [#56](https://github.com/EddieJaoudeCommunity/gh-action-community/pull/56) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+5. 🗣 Commented on [#1](https://github.com/adiman9/adiman9/issues/1) in [adiman9/adiman9](https://github.com/adiman9/adiman9)
 <!--END_SECTION:activity-->
