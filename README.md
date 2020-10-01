@@ -56,9 +56,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/adiman9/adiman9/pull/1) in [adiman9/adiman9](https://github.com/adiman9/adiman9)
-2. 💪 Opened PR [#6](https://github.com/romainfrancois/trump/pull/6) in [romainfrancois/trump](https://github.com/romainfrancois/trump)
-3. ❗️ Opened issue [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-4. 🗣 Commented on [#42](https://github.com/Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-5. 🗣 Commented on [#42](https://github.com/Pseudonium/Obsidian_to_Anki/issues/42) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+1. 🗣 Commented on [#1](https://github.com/adiman9/adiman9/issues/1) in [adiman9/adiman9](https://github.com/adiman9/adiman9)
+2. ❗️ Opened issue [#1](https://github.com/BryanJenksCommunity/FAQ/issues/1) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 💪 Opened PR [#1](https://github.com/adiman9/adiman9/pull/1) in [adiman9/adiman9](https://github.com/adiman9/adiman9)
+4. 💪 Opened PR [#6](https://github.com/romainfrancois/trump/pull/6) in [romainfrancois/trump](https://github.com/romainfrancois/trump)
+5. ❗️ Opened issue [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 <!--END_SECTION:activity-->
