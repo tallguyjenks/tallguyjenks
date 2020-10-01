@@ -53,6 +53,15 @@
 
 ---
 
+<h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/></a></h3>
+
+
+<!-- ARTICLES:START -->
+
+<!-- ARTICLES:END -->
+
+---
+
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
