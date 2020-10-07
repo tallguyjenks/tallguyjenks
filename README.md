@@ -66,9 +66,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tallguyjenks/LEARNING-REPO/issues/1) in [tallguyjenks/LEARNING-REPO](https://github.com/tallguyjenks/LEARNING-REPO)
-2. ❗️ Opened issue [#1](https://github.com/adiman9/jenksbot/issues/1) in [adiman9/jenksbot](https://github.com/adiman9/jenksbot)
-3. 💪 Opened PR [#10](https://github.com/kmaasrud/awesome-obsidian/pull/10) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-4. 💪 Opened PR [#9](https://github.com/kmaasrud/awesome-obsidian/pull/9) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-5. 🗣 Commented on [#56](https://github.com/EddieJaoudeCommunity/gh-action-community/issues/56) in [EddieJaoudeCommunity/gh-action-community](https://github.com/EddieJaoudeCommunity/gh-action-community)
+1. 🗣 Commented on [#10](https://github.com/kmaasrud/awesome-obsidian/issues/10) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+2. ❗️ Opened issue [#1](https://github.com/tallguyjenks/LEARNING-REPO/issues/1) in [tallguyjenks/LEARNING-REPO](https://github.com/tallguyjenks/LEARNING-REPO)
+3. ❗️ Opened issue [#1](https://github.com/adiman9/jenksbot/issues/1) in [adiman9/jenksbot](https://github.com/adiman9/jenksbot)
+4. 💪 Opened PR [#10](https://github.com/kmaasrud/awesome-obsidian/pull/10) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+5. 💪 Opened PR [#9](https://github.com/kmaasrud/awesome-obsidian/pull/9) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 <!--END_SECTION:activity-->
