@@ -66,9 +66,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/tallguyjenks/LEARNING/issues/3) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
-2. 🗣 Commented on [#3](https://github.com/tallguyjenks/LEARNING/issues/3) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
-3. ❗️ Opened issue [#3](https://github.com/tallguyjenks/LEARNING-REPO/issues/3) in [tallguyjenks/LEARNING-REPO](https://github.com/tallguyjenks/LEARNING-REPO)
-4. ❗️ Closed issue [#2](https://github.com/tallguyjenks/LEARNING-REPO/issues/2) in [tallguyjenks/LEARNING-REPO](https://github.com/tallguyjenks/LEARNING-REPO)
-5. ❗️ Opened issue [#2](https://github.com/tallguyjenks/LEARNING-REPO/issues/2) in [tallguyjenks/LEARNING-REPO](https://github.com/tallguyjenks/LEARNING-REPO)
+1. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+2. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+3. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+4. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+5. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 <!--END_SECTION:activity-->
