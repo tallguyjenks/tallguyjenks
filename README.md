@@ -66,7 +66,7 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+1. ❗️ Closed issue [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 2. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 3. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 4. 🗣 Commented on [#4](https://github.com/tallguyjenks/LEARNING/issues/4) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
