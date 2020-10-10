@@ -21,6 +21,9 @@
   <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
     <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
   </a>
+  <a href="https://www.twitch.tv/tallguyjenks">
+    <img src="https://img.icons8.com/material-outlined/24/000000/twitch.png"/>
+  </a>
   <a href="https://orcid.org/0000-0002-9604-3069">
     <img src="https://img.icons8.com/material-outlined/30/000000/camera-addon-identification.png"/>
   </a>
@@ -36,6 +39,7 @@
   <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" />
   </a>
+
   
 </p>
 
