@@ -66,9 +66,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adiman9/jenksbot/issues/1) in [adiman9/jenksbot](https://github.com/adiman9/jenksbot)
-2. ❗️ Closed issue [#6](https://github.com/tallguyjenks/LEARNING/issues/6) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
-3. ❗️ Closed issue [#5](https://github.com/tallguyjenks/LEARNING/issues/5) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
-4. 🗣 Commented on [#5](https://github.com/tallguyjenks/LEARNING/issues/5) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+1. 💪 Opened PR [#12](https://github.com/kmaasrud/awesome-obsidian/pull/12) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
+2. 🗣 Commented on [#1](https://github.com/adiman9/jenksbot/issues/1) in [adiman9/jenksbot](https://github.com/adiman9/jenksbot)
+3. ❗️ Closed issue [#6](https://github.com/tallguyjenks/LEARNING/issues/6) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
+4. ❗️ Closed issue [#5](https://github.com/tallguyjenks/LEARNING/issues/5) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 5. 🗣 Commented on [#5](https://github.com/tallguyjenks/LEARNING/issues/5) in [tallguyjenks/LEARNING](https://github.com/tallguyjenks/LEARNING)
 <!--END_SECTION:activity-->
