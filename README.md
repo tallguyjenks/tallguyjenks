@@ -18,7 +18,7 @@
   <a href="https://www.buymeacoffee.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/>
   </a>
-  <a href="https://www.youtube.com/c/BryanJenksTech">
+  <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
     <img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/>
   </a>
   <a href="https://orcid.org/0000-0002-9604-3069">
