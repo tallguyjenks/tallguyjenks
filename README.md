@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [How I Use Raindrop.io As The Entry Point of My Zettelkasten Workflow In Obsidian](https://www.youtube.com/watch?v=902nV-gGb9U)
 - [Zettelkasting Some Evergreen Notes In Obsidian | VOD](https://www.youtube.com/watch?v=s43YzOt-1oE)
 - [My Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
 - [Obsidian VS Roam Research: Why I Chose Obsidian](https://www.youtube.com/watch?v=S1zU-sA4u74)
 - [Leaning C++ For School | FML | VOD](https://www.youtube.com/watch?v=ABLxBXeYy3s)
-- [RStudio Crash Course for beginners 2020 | How To Use The IDE](https://www.youtube.com/watch?v=PXiY8muVUec)
 <!-- YOUTUBE:END -->
 
 ---
