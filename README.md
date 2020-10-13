@@ -12,7 +12,7 @@
   <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
   </a>
-  <a href= "https://www.bryanjenks.xyz">
+  <a href= "https://www.bryanjenks.dev">
     <img src="https://img.icons8.com/material-outlined/30/000000/geography.png"/>
   </a>
   <a href="https://www.buymeacoffee.com/tallguyjenks">
