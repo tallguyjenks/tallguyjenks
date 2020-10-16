@@ -52,7 +52,7 @@
 - [Zettelkasting Some Evergreen Notes In Obsidian | VOD](https://www.youtube.com/watch?v=s43YzOt-1oE)
 - [My Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
 - [Obsidian VS Roam Research: Why I Chose Obsidian](https://www.youtube.com/watch?v=S1zU-sA4u74)
-- [Leaning C++ For School | FML | VOD](https://www.youtube.com/watch?v=ABLxBXeYy3s)
+- [Learning C++ For School | FML | VOD](https://www.youtube.com/watch?v=ABLxBXeYy3s)
 <!-- YOUTUBE:END -->
 
 ---
