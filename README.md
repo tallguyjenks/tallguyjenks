@@ -61,7 +61,7 @@
 
 
 <!-- ARTICLES:START -->
-- [Manage Your Entire R Code Base With TODOr](https://medium.com/@tallguyjenks/manage-your-entire-r-code-base-with-todor-76dcd7abad9?source=rss-32e452bd16bd------2)
+- [Manage Your Entire R Code Base With TODOr](https://towardsdatascience.com/manage-your-entire-r-code-base-with-todor-76dcd7abad9?source=rss-32e452bd16bd------2)
 - [How I Put My Mind Under Version Control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5?source=rss-32e452bd16bd------2)
 - [The Patchwork Package In R](https://medium.com/analytics-vidhya/the-patchwork-package-in-r-9468e4a7cd29?source=rss-32e452bd16bd------2)
 <!-- ARTICLES:END -->
