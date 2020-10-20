@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!](https://www.youtube.com/watch?v=PuOecKqUsRA)
 - [You NEED A Password Manager. Try Bitwarden!](https://www.youtube.com/watch?v=pOYI6fpsnxI)
 - [How I Use Raindrop.io As The Entry Point of My Zettelkasten Workflow In Obsidian](https://www.youtube.com/watch?v=902nV-gGb9U)
 - [Zettelkasting Some Evergreen Notes In Obsidian | VOD](https://www.youtube.com/watch?v=s43YzOt-1oE)
 - [My Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
-- [Obsidian VS Roam Research: Why I Chose Obsidian](https://www.youtube.com/watch?v=S1zU-sA4u74)
 <!-- YOUTUBE:END -->
 
 ---
