@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4712](https://github.com/tldr-pages/tldr/issues/4712) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. ❗️ Opened issue [#1](https://github.com/tallguyjenks/RWorkflow/issues/1) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
-3. 💪 Opened PR [#4712](https://github.com/tldr-pages/tldr/pull/4712) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. ❗️ Opened issue [#14](https://github.com/kmaasrud/awesome-obsidian/issues/14) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-5. ❗️ Opened issue [#39](https://github.com/tallguyjenks/fla.sh/issues/39) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+1. ❗️ Opened issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
+2. 🗣 Commented on [#4712](https://github.com/tldr-pages/tldr/issues/4712) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+3. ❗️ Opened issue [#1](https://github.com/tallguyjenks/RWorkflow/issues/1) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
+4. 💪 Opened PR [#4712](https://github.com/tldr-pages/tldr/pull/4712) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. ❗️ Opened issue [#14](https://github.com/kmaasrud/awesome-obsidian/issues/14) in [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 <!--END_SECTION:activity-->
