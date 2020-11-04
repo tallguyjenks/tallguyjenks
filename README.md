@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/deathau/sliding-panes-obsidian/issues/3) in [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian)
-2. ❗️ Opened issue [#2](https://github.com/BryanJenksCommunity/FAQ/issues/2) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
-4. ❗️ Opened issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
-5. 🗣 Commented on [#4712](https://github.com/tldr-pages/tldr/issues/4712) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. ❗️ Opened issue [#3](https://github.com/BryanJenksCommunity/FAQ/issues/3) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#3](https://github.com/deathau/sliding-panes-obsidian/issues/3) in [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian)
+3. ❗️ Opened issue [#2](https://github.com/BryanJenksCommunity/FAQ/issues/2) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
+5. ❗️ Opened issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
 <!--END_SECTION:activity-->
