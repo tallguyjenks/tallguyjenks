@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
-- [Flowcharts In Obsidian with Mermaid | Teaching session with Q&A](https://www.youtube.com/watch?v=QFMfuDQY4WI)
 - [NEW | Obsidian Insiders Release 0.9.10 | Plugins & Official API](https://www.youtube.com/watch?v=G69LwbVHXnU)
 - [Easy YouTube Timestamps From Final Cut Pro X With Python!](https://www.youtube.com/watch?v=l5uUcvhFg0Q)
 - [Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!](https://www.youtube.com/watch?v=PuOecKqUsRA)
 - [You NEED A Password Manager. Try Bitwarden!](https://www.youtube.com/watch?v=pOYI6fpsnxI)
+- [How I Use Raindrop.io As The Entry Point of My Zettelkasten Workflow In Obsidian](https://www.youtube.com/watch?v=902nV-gGb9U)
 <!-- YOUTUBE:END -->
 
 ---
