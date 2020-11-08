@@ -45,7 +45,7 @@
 
 ---
   
-<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
+<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
 - [NEW | Obsidian Insiders Release 0.9.10 | Plugins & Official API](https://www.youtube.com/watch?v=G69LwbVHXnU)
