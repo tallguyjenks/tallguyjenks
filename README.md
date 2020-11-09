@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jdbrice/obsidian-code-block-copy/issues/1) in [jdbrice/obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)
-2. 🗣 Commented on [#4](https://github.com/BryanJenksCommunity/FAQ/issues/4) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. ❗️ Closed issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
-4. 🗣 Commented on [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
-5. 🗣 Commented on [#16](https://github.com/deathau/sliding-panes-obsidian/issues/16) in [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian)
+1. 🗣 Commented on [#1](https://github.com/tallguyjenks/Obsidian-Workflow/issues/1) in [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow)
+2. 🗣 Commented on [#1](https://github.com/tallguyjenks/Obsidian-Workflow/issues/1) in [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow)
+3. ❗️ Opened issue [#1](https://github.com/jdbrice/obsidian-code-block-copy/issues/1) in [jdbrice/obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)
+4. 🗣 Commented on [#4](https://github.com/BryanJenksCommunity/FAQ/issues/4) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Closed issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
 <!--END_SECTION:activity-->
