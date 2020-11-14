@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/BryanJenksCommunity/FAQ/issues/3) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. 🗣 Commented on [#5](https://github.com/BryanJenksCommunity/FAQ/issues/5) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#1](https://github.com/tallguyjenks/Obsidian-Workflow/issues/1) in [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow)
-4. 🗣 Commented on [#1](https://github.com/tallguyjenks/Obsidian-Workflow/issues/1) in [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow)
-5. ❗️ Opened issue [#1](https://github.com/jdbrice/obsidian-code-block-copy/issues/1) in [jdbrice/obsidian-code-block-copy](https://github.com/jdbrice/obsidian-code-block-copy)
+1. ❗️ Reopened issue [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
+2. 🗣 Commented on [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
+3. 🗣 Commented on [#3](https://github.com/BryanJenksCommunity/FAQ/issues/3) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#5](https://github.com/BryanJenksCommunity/FAQ/issues/5) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. 🗣 Commented on [#1](https://github.com/tallguyjenks/Obsidian-Workflow/issues/1) in [tallguyjenks/Obsidian-Workflow](https://github.com/tallguyjenks/Obsidian-Workflow)
 <!--END_SECTION:activity-->
