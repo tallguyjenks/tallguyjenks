@@ -72,8 +72,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-2. ❗️ Opened issue [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-3. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
+3. ❗️ Opened issue [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
 4. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 5. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
