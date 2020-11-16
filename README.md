@@ -72,8 +72,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. 🗣 Commented on [#5](https://github.com/BryanJenksCommunity/FAQ/issues/5) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 3. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. 🗣 Commented on [#2](https://github.com/deathau/cm-show-whitespace-obsidian/issues/2) in [deathau/cm-show-whitespace-obsidian](https://github.com/deathau/cm-show-whitespace-obsidian)
+4. 🗣 Commented on [#5](https://github.com/BryanJenksCommunity/FAQ/issues/5) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. 🗣 Commented on [#6](https://github.com/BryanJenksCommunity/FAQ/issues/6) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
