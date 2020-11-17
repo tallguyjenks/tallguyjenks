@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
-2. 🗣 Commented on [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-3. ❗️ Opened issue [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
+1. 🎉 Merged PR [#4](https://github.com/tallguyjenks/gruvboxr/pull/4) in [tallguyjenks/gruvboxr](https://github.com/tallguyjenks/gruvboxr)
+2. 💪 Opened PR [#4](https://github.com/tallguyjenks/gruvboxr/pull/4) in [tallguyjenks/gruvboxr](https://github.com/tallguyjenks/gruvboxr)
+3. 🗣 Commented on [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
 4. 🗣 Commented on [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-5. ❗️ Closed issue [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
+5. ❗️ Opened issue [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
 <!--END_SECTION:activity-->
