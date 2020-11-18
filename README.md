@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/tallguyjenks/gruvboxr/pull/4) in [tallguyjenks/gruvboxr](https://github.com/tallguyjenks/gruvboxr)
-2. 💪 Opened PR [#4](https://github.com/tallguyjenks/gruvboxr/pull/4) in [tallguyjenks/gruvboxr](https://github.com/tallguyjenks/gruvboxr)
-3. 🗣 Commented on [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
-4. 🗣 Commented on [#1](https://github.com/Vinzent03/find-unlinked-files/issues/1) in [Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-5. ❗️ Opened issue [#9](https://github.com/aviskase/obsidian-link-indexer/issues/9) in [aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
+1. 🗣 Commented on [#8](https://github.com/BryanJenksCommunity/FAQ/issues/8) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#7](https://github.com/BryanJenksCommunity/FAQ/issues/7) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. ❗️ Reopened issue [#7](https://github.com/BryanJenksCommunity/FAQ/issues/7) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#7](https://github.com/BryanJenksCommunity/FAQ/issues/7) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. 🎉 Merged PR [#4](https://github.com/tallguyjenks/gruvboxr/pull/4) in [tallguyjenks/gruvboxr](https://github.com/tallguyjenks/gruvboxr)
 <!--END_SECTION:activity-->
