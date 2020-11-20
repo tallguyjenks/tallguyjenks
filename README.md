@@ -49,10 +49,10 @@
 
 <!-- YOUTUBE:START -->
 - [Obsidian Mermaid Livestream Highlights | Zettelkasten Resources, YouTube Advice, Data Science](https://www.youtube.com/watch?v=KAoqO9w1zJA)
+- [Comprehensive Overview | Using Mermaid Flowcharts In Obsidian 🧜🏻‍♀️️](https://www.youtube.com/watch?v=Tsu02d6Qti0)
 - [Comprehensive Obsidian & Git Sync Workflow 🔄️ | Your Mind Under Version Control](https://www.youtube.com/watch?v=qqsNNTkhK5Y)
 - [TOP 5️⃣️ | FAVORITE THINGS IN OBSIDIAN](https://www.youtube.com/watch?v=iWXd7RNG5qE)
 - [NEW | Obsidian Insiders Release 0.9.10 | Plugins & Official API](https://www.youtube.com/watch?v=G69LwbVHXnU)
-- [Easy YouTube Timestamps From Final Cut Pro X With Python!](https://www.youtube.com/watch?v=l5uUcvhFg0Q)
 <!-- YOUTUBE:END -->
 
 ---
