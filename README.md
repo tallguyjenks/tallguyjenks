@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [I Failed My 🐍️Python Class, My Homework Ate My Dog | Live Coding | Chill Vibes](https://www.youtube.com/watch?v=tqRRG9LiffQ)
 - [Comprehensive Overview | Using Mermaid Flowcharts In Obsidian 🧜🏻‍♀️️](https://www.youtube.com/watch?v=Tsu02d6Qti0)
 - [Obsidian Mermaid Livestream Highlights | Zettelkasten Resources, YouTube Advice, Data Science](https://www.youtube.com/watch?v=KAoqO9w1zJA)
 - [Comprehensive Obsidian & Git Sync Workflow 🔄️ | Your Mind Under Version Control](https://www.youtube.com/watch?v=qqsNNTkhK5Y)
 - [TOP 5️⃣️ | FAVORITE THINGS IN OBSIDIAN](https://www.youtube.com/watch?v=iWXd7RNG5qE)
-- [NEW | Obsidian Insiders Release 0.9.10 | Plugins & Official API](https://www.youtube.com/watch?v=G69LwbVHXnU)
 <!-- YOUTUBE:END -->
 
 ---
