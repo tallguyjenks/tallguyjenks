@@ -72,8 +72,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. 🗣 Commented on [#3](https://github.com/BryanJenksCommunity/FAQ/issues/3) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#10](https://github.com/BryanJenksCommunity/FAQ/issues/10) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#10](https://github.com/BryanJenksCommunity/FAQ/issues/10) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. 🗣 Commented on [#3](https://github.com/erichalldev/obsidian-smart-random-note/issues/3) in [erichalldev/obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note)
+2. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 🗣 Commented on [#3](https://github.com/BryanJenksCommunity/FAQ/issues/3) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#10](https://github.com/BryanJenksCommunity/FAQ/issues/10) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#10](https://github.com/BryanJenksCommunity/FAQ/issues/10) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
