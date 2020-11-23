@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/morhetz/gruvbox-contrib/pull/105) in [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
-2. 🗣 Commented on [#29](https://github.com/lynchjames/obsidian-day-planner/issues/29) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-3. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#12](https://github.com/BryanJenksCommunity/FAQ/issues/12) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. 🗣 Commented on [#10](https://github.com/ryanjamurphy/review-obsidian/issues/10) in [ryanjamurphy/review-obsidian](https://github.com/ryanjamurphy/review-obsidian)
+1. 🗣 Commented on [#6](https://github.com/erichalldev/obsidian-smart-random-note/issues/6) in [erichalldev/obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note)
+2. 💪 Opened PR [#105](https://github.com/morhetz/gruvbox-contrib/pull/105) in [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
+3. 🗣 Commented on [#29](https://github.com/lynchjames/obsidian-day-planner/issues/29) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
+4. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#12](https://github.com/BryanJenksCommunity/FAQ/issues/12) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
