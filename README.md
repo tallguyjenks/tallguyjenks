@@ -73,7 +73,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 2. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-4. 🗣 Commented on [#14](https://github.com/BryanJenksCommunity/FAQ/issues/14) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. ❗️ Closed issue [#15](https://github.com/BryanJenksCommunity/FAQ/issues/15) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+5. 🗣 Commented on [#14](https://github.com/BryanJenksCommunity/FAQ/issues/14) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
