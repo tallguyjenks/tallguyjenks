@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/BryanJenksCommunity/FAQ/issues/16) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. ❗️ Opened issue [#1](https://github.com/urishiraval/obsidian-apple-reminders-plugin/issues/1) in [urishiraval/obsidian-apple-reminders-plugin](https://github.com/urishiraval/obsidian-apple-reminders-plugin)
-3. ❗️ Opened issue [#36](https://github.com/lynchjames/obsidian-day-planner/issues/36) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-4. 🗣 Commented on [#32](https://github.com/lynchjames/obsidian-day-planner/issues/32) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-5. 🗣 Commented on [#11](https://github.com/BryanJenksCommunity/FAQ/issues/11) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. ❗️ Opened issue [#18](https://github.com/BryanJenksCommunity/FAQ/issues/18) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. ❗️ Opened issue [#17](https://github.com/BryanJenksCommunity/FAQ/issues/17) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 🗣 Commented on [#16](https://github.com/BryanJenksCommunity/FAQ/issues/16) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. ❗️ Opened issue [#1](https://github.com/urishiraval/obsidian-apple-reminders-plugin/issues/1) in [urishiraval/obsidian-apple-reminders-plugin](https://github.com/urishiraval/obsidian-apple-reminders-plugin)
+5. ❗️ Opened issue [#36](https://github.com/lynchjames/obsidian-day-planner/issues/36) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
 <!--END_SECTION:activity-->
