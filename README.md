@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-2. 🗣 Commented on [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-3. ❗️ Opened issue [#18](https://github.com/BryanJenksCommunity/FAQ/issues/18) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#17](https://github.com/BryanJenksCommunity/FAQ/issues/17) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. 🗣 Commented on [#16](https://github.com/BryanJenksCommunity/FAQ/issues/16) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. ❗️ Opened issue [#19](https://github.com/BryanJenksCommunity/FAQ/issues/19) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. ❗️ Reopened issue [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+3. 🗣 Commented on [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. ❗️ Opened issue [#18](https://github.com/BryanJenksCommunity/FAQ/issues/18) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#17](https://github.com/BryanJenksCommunity/FAQ/issues/17) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
