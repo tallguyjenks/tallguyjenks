@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Introducing GitHub 🌙️ Dark Mode & Discussions 💬️](https://www.youtube.com/watch?v=P6BasTJu1RI)
 - [Alfred Workflows With Obsidian For [[Maximum Productivity]]](https://www.youtube.com/watch?v=wN2NjnxlTm0)
 - [Breaking: Obsidian Insiders Release 0.9.19 | YAML Metadata and Aliases!](https://www.youtube.com/watch?v=rAoFGGMG-0g)
 - [Comprehensive Obsidian & Zotero Workflow For Zettelkasten & Evergreen Notes 📝](https://www.youtube.com/watch?v=_Fjhad-Z61o)
 - [Comprehensive Overview | Using Mermaid Flowcharts In Obsidian 🧜🏻‍♀️️](https://www.youtube.com/watch?v=Tsu02d6Qti0)
-- [Obsidian Mermaid Livestream Highlights | Zettelkasten Resources, YouTube Advice, Data Science](https://www.youtube.com/watch?v=KAoqO9w1zJA)
 <!-- YOUTUBE:END -->
 
 ---
