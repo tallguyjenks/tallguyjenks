@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/lynchjames/obsidian-mind-map/issues/1) in [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
-2. 🗣 Commented on [#1](https://github.com/lynchjames/obsidian-mind-map/issues/1) in [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
-3. ❗️ Opened issue [#21](https://github.com/BryanJenksCommunity/FAQ/issues/21) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Closed issue [#19](https://github.com/BryanJenksCommunity/FAQ/issues/19) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. ❗️ Closed issue [#18](https://github.com/BryanJenksCommunity/FAQ/issues/18) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. ❗️ Closed issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. ❗️ Opened issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. ❗️ Closed issue [#1](https://github.com/lynchjames/obsidian-mind-map/issues/1) in [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
+4. 🗣 Commented on [#1](https://github.com/lynchjames/obsidian-mind-map/issues/1) in [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
+5. ❗️ Opened issue [#21](https://github.com/BryanJenksCommunity/FAQ/issues/21) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
