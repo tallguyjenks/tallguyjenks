@@ -48,7 +48,7 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
-- [Obsidian Zettelkasten Note Taking Stream | Personal Knowledge Management | !commands | 📝️📝️📝️](https://www.youtube.com/watch?v=uJIHbJKDsFQ)
+- [Obsidian Zettelkasten Note Taking Stream | Personal Knowledge Management | !commands | 📝️📝️📝️ | VOD](https://www.youtube.com/watch?v=uJIHbJKDsFQ)
 - [Introducing GitHub 🌙️ Dark Mode & Discussions 💬️](https://www.youtube.com/watch?v=P6BasTJu1RI)
 - [Alfred Workflows With Obsidian For [[Maximum Productivity]]](https://www.youtube.com/watch?v=wN2NjnxlTm0)
 - [Breaking: Obsidian Insiders Release 0.9.19 | YAML Metadata and Aliases!](https://www.youtube.com/watch?v=rAoFGGMG-0g)
