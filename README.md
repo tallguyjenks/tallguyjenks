@@ -73,7 +73,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
 2. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-3. ❗️ Opened issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-4. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
-5. 🗣 Commented on [#272](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+4. ❗️ Opened issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+5. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
 <!--END_SECTION:activity-->
