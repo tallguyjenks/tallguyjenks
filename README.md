@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#443](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/443) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. ❗️ Closed issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. ❗️ Closed issue [#1](https://github.com/lynchjames/obsidian-mind-map/issues/1) in [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
+1. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
+2. 🗣 Commented on [#272](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 💪 Opened PR [#443](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/443) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Closed issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
