@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-2. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
-3. 🗣 Commented on [#272](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#443](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/443) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#22](https://github.com/BryanJenksCommunity/FAQ/issues/22) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+2. ❗️ Opened issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+3. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
+4. 🗣 Commented on [#272](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/272) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+5. 💪 Opened PR [#443](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/443) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
