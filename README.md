@@ -45,7 +45,7 @@
 
 ---
   
-<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/000000/youtube-play.png"/></a></h3>
+<h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
 - [How To Automate Your Obsidian Zettelkasten Workflow With An Elgato Stream Deck 🖥️](https://www.youtube.com/watch?v=pFLQbFhrciw)
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/></a></h3>
+<h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
 
 
 <!-- ARTICLES:START -->
@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/000000/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30px" width="30px" /></a></h3>
+<h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
