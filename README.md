@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-2. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-3. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-4. ❗️ Opened issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-5. 🗣 Commented on [#1831](https://github.com/cagov/covid19/issues/1831) in [cagov/covid19](https://github.com/cagov/covid19)
+1. ❗️ Reopened issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+2. 🗣 Commented on [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+3. ❗️ Closed issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+4. ❗️ Opened issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+5. 🗣 Commented on [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
