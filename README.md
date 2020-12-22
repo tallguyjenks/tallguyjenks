@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4507](https://github.com/openopps/openopps-platform/issues/4507) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
-2. ❗️ Reopened issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
-3. 🗣 Commented on [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
-4. ❗️ Closed issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
-5. ❗️ Opened issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+1. 💪 Opened PR [#1](https://github.com/perkinsjr/YouTube-Ideas/pull/1) in [perkinsjr/YouTube-Ideas](https://github.com/perkinsjr/YouTube-Ideas)
+2. ❗️ Opened issue [#4507](https://github.com/openopps/openopps-platform/issues/4507) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+3. ❗️ Reopened issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+4. 🗣 Commented on [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+5. ❗️ Closed issue [#4506](https://github.com/openopps/openopps-platform/issues/4506) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
 <!--END_SECTION:activity-->
