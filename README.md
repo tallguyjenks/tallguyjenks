@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
-2. 🗣 Commented on [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
-3. ❗️ Opened issue [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
-4. 💪 Opened PR [#1](https://github.com/perkinsjr/YouTube-Ideas/pull/1) in [perkinsjr/YouTube-Ideas](https://github.com/perkinsjr/YouTube-Ideas)
-5. ❗️ Opened issue [#4507](https://github.com/openopps/openopps-platform/issues/4507) in [openopps/openopps-platform](https://github.com/openopps/openopps-platform)
+1. ❗️ Closed issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+2. 🗣 Commented on [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+3. ❗️ Opened issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+4. ❗️ Closed issue [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
+5. 🗣 Commented on [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
 <!--END_SECTION:activity-->
