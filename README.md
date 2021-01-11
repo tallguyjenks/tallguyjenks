@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [My Obsidian Keybindings 🔑️ For Maximum Productivity 🔥️](https://www.youtube.com/watch?v=Wf6N1rT42wI)
 - [Breaking: Obsidian Insiders Release 0.10.5 | Query Blocks & Nested Tags! 🏷️](https://www.youtube.com/watch?v=hUCMGw8uMRg)
 - [Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten 📝️](https://www.youtube.com/watch?v=zIh1S7ra3aI)
 - [How Templates In Obsidian Can 💯️x Your Productivity](https://www.youtube.com/watch?v=1eUxQo6Dy7k)
 - [How To Automate Your Obsidian Zettelkasten Workflow With An Elgato Stream Deck 🖥️](https://www.youtube.com/watch?v=pFLQbFhrciw)
-- [Obsidian Zettelkasten Note Taking Stream | Personal Knowledge Management | !commands | 📝️📝️📝️ | VOD](https://www.youtube.com/watch?v=uJIHbJKDsFQ)
 <!-- YOUTUBE:END -->
 
 ---
