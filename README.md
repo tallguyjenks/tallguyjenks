@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-2. 🗣 Commented on [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-3. ❗️ Opened issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-4. ❗️ Closed issue [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
-5. 🗣 Commented on [#12](https://github.com/esm7/obsidian-vimrc-support/issues/12) in [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
+1. 🎉 Merged PR [#40](https://github.com/tallguyjenks/fla.sh/pull/40) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+2. 🗣 Commented on [#40](https://github.com/tallguyjenks/fla.sh/issues/40) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+3. ❗️ Closed issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+4. 🗣 Commented on [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+5. ❗️ Opened issue [#186](https://github.com/Pseudonium/Obsidian_to_Anki/issues/186) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
 <!--END_SECTION:activity-->
