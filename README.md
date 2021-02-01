@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [How My ADHD Medication Affected Me After 10 Years Unmedicated | Concerta | Ritalin](https://www.youtube.com/watch?v=jKvpU_PByos)
 - [Comprehensive Overview | LaTeX Mathjax Equation In [[Obsidian]]](https://www.youtube.com/watch?v=FA0z7oR7OWc)
 - [[[Complete Walkthrough]] Zotero & iPad Workflow For Zettelkasten Literature Notes](https://www.youtube.com/watch?v=e7novaC_O_Y)
 - [My Obsidian Keybindings 🔑️ For Maximum Productivity 🔥️](https://www.youtube.com/watch?v=Wf6N1rT42wI)
 - [Breaking: Obsidian Insiders Release 0.10.5 | Query Blocks & Nested Tags! 🏷️](https://www.youtube.com/watch?v=hUCMGw8uMRg)
-- [Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten 📝️](https://www.youtube.com/watch?v=zIh1S7ra3aI)
 <!-- YOUTUBE:END -->
 
 ---
