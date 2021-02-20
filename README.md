@@ -30,7 +30,7 @@
   <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
   </a>
-  <a href="mailto:bryanjenks@protonmail.com">
+  <a href="mailto:bryan@bryanjenks.dev">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
   <a href="https://medium.com/@tallguyjenks">
