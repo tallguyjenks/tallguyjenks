@@ -72,8 +72,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-2. ❗️ Closed issue [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-3. 🗣 Commented on [#7](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/7) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-4. 🗣 Commented on [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-5. ❗️ Opened issue [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
+2. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
+3. ❗️ Closed issue [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
+4. 🗣 Commented on [#7](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/7) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
+5. 🗣 Commented on [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
 <!--END_SECTION:activity-->
