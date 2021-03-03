@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#38](https://github.com/tallguyjenks/fla.sh/issues/38) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-2. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-3. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-4. ❗️ Closed issue [#9](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/9) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
-5. 🗣 Commented on [#7](https://github.com/mrjackphil/obsidian-backlinks-in-document/issues/7) in [mrjackphil/obsidian-backlinks-in-document](https://github.com/mrjackphil/obsidian-backlinks-in-document)
+1. ❗️ Opened issue [#146](https://github.com/liamcain/obsidian-calendar-plugin/issues/146) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
+2. 🗣 Commented on [#145](https://github.com/liamcain/obsidian-calendar-plugin/issues/145) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
+3. ❗️ Reopened issue [#38](https://github.com/tallguyjenks/fla.sh/issues/38) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
+5. 🗣 Commented on [#7](https://github.com/trydalch/obsidian-daily-activity/issues/7) in [trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
 <!--END_SECTION:activity-->
