@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [📝️ [[Zotero]] Updated Workflow & Beta Feature Showcase! Tabbed Interface, In-App Annotations & More!](https://www.youtube.com/watch?v=7qW2DEz6qrk)
 - [📣️ Comprehensive [[Obsidian Course]] Announcement 📣️](https://www.youtube.com/watch?v=ZyZFvLSyG4U)
 - [[[EMERGENCE]]](https://www.youtube.com/watch?v=8Xvbp0LIFqs)
 - [The Absolute State of [[Spaced Repetition]] In Obsidian | Anki, Plugins, Workflows, & More 🧠️](https://www.youtube.com/watch?v=OqVs1Sw-Ahg)
 - [Bryan Jenks AMA | Ask Me Anything | R, YouTube, ADHD, & More!](https://www.youtube.com/watch?v=pyyBgpCtFNs)
-- [Breaking: Obsidian Insiders Release 0.11.0 | Graph Cluster Styling & Persistent Folds!](https://www.youtube.com/watch?v=_gAe718BNUg)
 <!-- YOUTUBE:END -->
 
 ---
