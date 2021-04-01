@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
-2. 🗣 Commented on [#146](https://github.com/liamcain/obsidian-calendar-plugin/issues/146) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
-3. 🗣 Commented on [#551](https://github.com/dendronhq/dendron/issues/551) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-4. ❗️ Opened issue [#552](https://github.com/dendronhq/dendron/issues/552) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-5. ❗️ Opened issue [#146](https://github.com/liamcain/obsidian-calendar-plugin/issues/146) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
+1. ❗️ Closed issue [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. ❗️ Opened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
+4. 🗣 Commented on [#146](https://github.com/liamcain/obsidian-calendar-plugin/issues/146) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
+5. 🗣 Commented on [#551](https://github.com/dendronhq/dendron/issues/551) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 <!--END_SECTION:activity-->
