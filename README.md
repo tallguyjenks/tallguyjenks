@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-2. ❗️ Closed issue [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
-5. 🗣 Commented on [#146](https://github.com/liamcain/obsidian-calendar-plugin/issues/146) in [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
+1. ❗️ Opened issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+2. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+3. ❗️ Closed issue [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#50](https://github.com/BryanJenksCommunity/FAQ/issues/50) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
 <!--END_SECTION:activity-->
