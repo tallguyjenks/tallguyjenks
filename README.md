@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/tallguyjenks/Obsidian-For-Business/issues/1) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-2. ❗️ Closed issue [#7](https://github.com/tallguyjenks/Obsidian-For-Business/issues/7) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-3. 🗣 Commented on [#7](https://github.com/tallguyjenks/Obsidian-For-Business/issues/7) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-4. ❗️ Opened issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-5. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+1. ❗️ Reopened issue [#36](https://github.com/tallguyjenks/fla.sh/issues/36) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+2. ❗️ Closed issue [#1](https://github.com/tallguyjenks/Obsidian-For-Business/issues/1) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+3. ❗️ Closed issue [#7](https://github.com/tallguyjenks/Obsidian-For-Business/issues/7) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+4. 🗣 Commented on [#7](https://github.com/tallguyjenks/Obsidian-For-Business/issues/7) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+5. ❗️ Opened issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
 <!--END_SECTION:activity-->
