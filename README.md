@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
-2. ❗️ Opened issue [#134](https://github.com/mermaid-js/mermaid-live-editor/issues/134) in [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
-3. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-4. ❗️ Closed issue [#29](https://github.com/lynchjames/obsidian-day-planner/issues/29) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-5. 🗣 Commented on [#29](https://github.com/lynchjames/obsidian-day-planner/issues/29) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
+1. ❗️ Closed issue [#59](https://github.com/BryanJenksCommunity/FAQ/issues/59) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. ❗️ Opened issue [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
+3. ❗️ Opened issue [#134](https://github.com/mermaid-js/mermaid-live-editor/issues/134) in [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
+4. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+5. ❗️ Closed issue [#29](https://github.com/lynchjames/obsidian-day-planner/issues/29) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
 <!--END_SECTION:activity-->
