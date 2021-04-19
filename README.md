@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/tallguyjenks/Obsidian-For-Business/issues/12) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-2. ❗️ Closed issue [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
-3. 🗣 Commented on [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
+1. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+2. ❗️ Opened issue [#12](https://github.com/tallguyjenks/Obsidian-For-Business/issues/12) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+3. ❗️ Closed issue [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
 4. 🗣 Commented on [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
-5. ❗️ Closed issue [#59](https://github.com/BryanJenksCommunity/FAQ/issues/59) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. 🗣 Commented on [#31](https://github.com/Psionica/Dual/issues/31) in [Psionica/Dual](https://github.com/Psionica/Dual)
 <!--END_SECTION:activity-->
