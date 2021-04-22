@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Free Code Camp Talk: Making A Data Driven CV With RMarkdown](https://www.youtube.com/watch?v=cMlRAiQUdD8)
 - [Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidian.md](https://www.youtube.com/watch?v=FEa2diI2qgA)
 - [3 Amazing Obsidian Plugins [[DataView]], [[Outliner]], & [[Templater]]](https://www.youtube.com/watch?v=2234DXKbNgM)
 - [Best Ways To Learn Javascript With Anki & Obsidian](https://www.youtube.com/watch?v=43KOH-l-SYo)
 - [Zotero iOS Beta and Changing My Workflow Yet Again!](https://www.youtube.com/watch?v=yjN-sdvhH3A)
-- [Organizing, Visualizing, [[Linking]] Family Ancestry In Obsidian](https://www.youtube.com/watch?v=vCPaO0Wv8Lg)
 <!-- YOUTUBE:END -->
 
 ---
