@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#73](https://github.com/BryanJenksCommunity/FAQ/issues/73) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. 🗣 Commented on [#60](https://github.com/AlexCovizzi/vscode-sqlite/issues/60) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
-3. 💪 Opened PR [#6](https://github.com/logseq/git-auto/pull/6) in [logseq/git-auto](https://github.com/logseq/git-auto)
-4. 💪 Opened PR [#5](https://github.com/logseq/awesome-logseq/pull/5) in [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq)
-5. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+1. 🗣 Commented on [#32](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight/issues/32) in [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
+2. ❗️ Closed issue [#73](https://github.com/BryanJenksCommunity/FAQ/issues/73) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 🗣 Commented on [#60](https://github.com/AlexCovizzi/vscode-sqlite/issues/60) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
+4. 💪 Opened PR [#6](https://github.com/logseq/git-auto/pull/6) in [logseq/git-auto](https://github.com/logseq/git-auto)
+5. 💪 Opened PR [#5](https://github.com/logseq/awesome-logseq/pull/5) in [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq)
 <!--END_SECTION:activity-->
