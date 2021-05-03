@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [📝️ GingkoApp The ADHD Friendly Writing Tool 📝️](https://www.youtube.com/watch?v=dxCJHHWyNzY)
 - [Unblock Your Thinking & Get Back To [[Linking]] With ABC Lists!](https://www.youtube.com/watch?v=pahwCFq8eaw)
 - [Free Code Camp Talk: Making A Data Driven CV With RMarkdown](https://www.youtube.com/watch?v=cMlRAiQUdD8)
 - [Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidian.md](https://www.youtube.com/watch?v=FEa2diI2qgA)
 - [3 Amazing Obsidian Plugins [[DataView]], [[Outliner]], & [[Templater]]](https://www.youtube.com/watch?v=2234DXKbNgM)
-- [Best Ways To Learn Javascript With Anki & Obsidian](https://www.youtube.com/watch?v=43KOH-l-SYo)
 <!-- YOUTUBE:END -->
 
 ---
