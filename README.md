@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#271](https://github.com/marijnh/Postmodern/pull/271) in [marijnh/Postmodern](https://github.com/marijnh/Postmodern)
-2. ❗️ Reopened issue [#38](https://github.com/tallguyjenks/fla.sh/issues/38) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-3. 🗣 Commented on [#32](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight/issues/32) in [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
-4. ❗️ Closed issue [#73](https://github.com/BryanJenksCommunity/FAQ/issues/73) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-5. 🗣 Commented on [#60](https://github.com/AlexCovizzi/vscode-sqlite/issues/60) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
+1. 💪 Opened PR [#393](https://github.com/DavidAnson/markdownlint/pull/393) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
+2. 💪 Opened PR [#271](https://github.com/marijnh/Postmodern/pull/271) in [marijnh/Postmodern](https://github.com/marijnh/Postmodern)
+3. ❗️ Reopened issue [#38](https://github.com/tallguyjenks/fla.sh/issues/38) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. 🗣 Commented on [#32](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight/issues/32) in [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight)
+5. ❗️ Closed issue [#73](https://github.com/BryanJenksCommunity/FAQ/issues/73) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
 <!--END_SECTION:activity-->
