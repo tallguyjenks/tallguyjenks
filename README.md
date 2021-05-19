@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
-2. 💪 Opened PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
-3. ❗️ Opened issue [#5](https://github.com/kometenstaub/csv-to-md/issues/5) in [kometenstaub/csv-to-md](https://github.com/kometenstaub/csv-to-md)
-4. 💪 Opened PR [#395](https://github.com/DavidAnson/markdownlint/pull/395) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
-5. ❌ Closed PR [#393](https://github.com/DavidAnson/markdownlint/pull/393) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
+1. 💪 Opened PR [#7](https://github.com/logseq/git-auto/pull/7) in [logseq/git-auto](https://github.com/logseq/git-auto)
+2. 🎉 Merged PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
+3. 💪 Opened PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
+4. ❗️ Opened issue [#5](https://github.com/kometenstaub/csv-to-md/issues/5) in [kometenstaub/csv-to-md](https://github.com/kometenstaub/csv-to-md)
+5. 💪 Opened PR [#395](https://github.com/DavidAnson/markdownlint/pull/395) in [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
 <!--END_SECTION:activity-->
