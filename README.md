@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/alx-plugins/media-extended/pull/30) in [alx-plugins/media-extended](https://github.com/alx-plugins/media-extended)
-2. 💪 Opened PR [#7](https://github.com/logseq/git-auto/pull/7) in [logseq/git-auto](https://github.com/logseq/git-auto)
-3. 🎉 Merged PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
-4. 💪 Opened PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
-5. ❗️ Opened issue [#5](https://github.com/kometenstaub/csv-to-md/issues/5) in [kometenstaub/csv-to-md](https://github.com/kometenstaub/csv-to-md)
+1. ❗️ Opened issue [#1581](https://github.com/github/super-linter/issues/1581) in [github/super-linter](https://github.com/github/super-linter)
+2. 💪 Opened PR [#30](https://github.com/alx-plugins/media-extended/pull/30) in [alx-plugins/media-extended](https://github.com/alx-plugins/media-extended)
+3. 💪 Opened PR [#7](https://github.com/logseq/git-auto/pull/7) in [logseq/git-auto](https://github.com/logseq/git-auto)
+4. 🎉 Merged PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
+5. 💪 Opened PR [#1](https://github.com/tallguyjenks/fcc-test/pull/1) in [tallguyjenks/fcc-test](https://github.com/tallguyjenks/fcc-test)
 <!--END_SECTION:activity-->
