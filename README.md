@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/ahmadawais/Emoji-Log/pull/42) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
-2. ❗️ Opened issue [#4](https://github.com/tallguyjenks/PyRM/issues/4) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. ❗️ Opened issue [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#2](https://github.com/tallguyjenks/RWorkflow/pull/2) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
-5. 💪 Opened PR [#2](https://github.com/tallguyjenks/RWorkflow/pull/2) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
+1. ❌ Closed PR [#42](https://github.com/ahmadawais/Emoji-Log/pull/42) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+2. 🗣 Commented on [#42](https://github.com/ahmadawais/Emoji-Log/issues/42) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+3. 💪 Opened PR [#46](https://github.com/ahmadawais/Emoji-Log/pull/46) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+4. 💪 Opened PR [#45](https://github.com/ahmadawais/Emoji-Log/pull/45) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+5. 💪 Opened PR [#44](https://github.com/ahmadawais/Emoji-Log/pull/44) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
 <!--END_SECTION:activity-->
