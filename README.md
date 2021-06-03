@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/insanum/obsidian_gruvbox/issues/15) in [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox)
-2. 🗣 Commented on [#1581](https://github.com/github/super-linter/issues/1581) in [github/super-linter](https://github.com/github/super-linter)
-3. 🗣 Commented on [#15](https://github.com/insanum/obsidian_gruvbox/issues/15) in [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox)
-4. 🗣 Commented on [#166](https://github.com/mermaid-js/mermaid-live-editor/issues/166) in [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
-5. ❌ Closed PR [#42](https://github.com/ahmadawais/Emoji-Log/pull/42) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+1. ❗️ Reopened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
+2. 🗣 Commented on [#15](https://github.com/insanum/obsidian_gruvbox/issues/15) in [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox)
+3. 🗣 Commented on [#1581](https://github.com/github/super-linter/issues/1581) in [github/super-linter](https://github.com/github/super-linter)
+4. 🗣 Commented on [#15](https://github.com/insanum/obsidian_gruvbox/issues/15) in [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox)
+5. 🗣 Commented on [#166](https://github.com/mermaid-js/mermaid-live-editor/issues/166) in [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 <!--END_SECTION:activity-->
