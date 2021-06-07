@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/tallguyjenks/PyRM/issues/6) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Opened issue [#5](https://github.com/tallguyjenks/PyRM/issues/5) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. 🗣 Commented on [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🗣 Commented on [#18](https://github.com/mrjackphil/obsidian-jump-to-link/issues/18) in [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link)
-5. ❗️ Reopened issue [#1](https://github.com/tallguyjenks/Obsidian-CLI/issues/1) in [tallguyjenks/Obsidian-CLI](https://github.com/tallguyjenks/Obsidian-CLI)
+1. ❗️ Opened issue [#7](https://github.com/tallguyjenks/PyRM/issues/7) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. ❗️ Opened issue [#6](https://github.com/tallguyjenks/PyRM/issues/6) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Opened issue [#5](https://github.com/tallguyjenks/PyRM/issues/5) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 🗣 Commented on [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🗣 Commented on [#18](https://github.com/mrjackphil/obsidian-jump-to-link/issues/18) in [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link)
 <!--END_SECTION:activity-->
