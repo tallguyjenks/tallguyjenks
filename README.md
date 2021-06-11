@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
-2. 🗣 Commented on [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
-3. ❗️ Opened issue [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
-4. ❗️ Opened issue [#9](https://github.com/tallguyjenks/PyRM/issues/9) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. ❗️ Opened issue [#8](https://github.com/tallguyjenks/PyRM/issues/8) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. ❗️ Opened issue [#10](https://github.com/tallguyjenks/PyRM/issues/10) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. ❗️ Closed issue [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
+3. 🗣 Commented on [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
+4. ❗️ Opened issue [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
+5. ❗️ Opened issue [#9](https://github.com/tallguyjenks/PyRM/issues/9) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
