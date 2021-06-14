@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#147](https://github.com/adamerose/PandasGUI/issues/147) in [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI)
-2. ❗️ Opened issue [#11](https://github.com/tallguyjenks/PyRM/issues/11) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. ❗️ Opened issue [#10](https://github.com/tallguyjenks/PyRM/issues/10) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. ❗️ Closed issue [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
-5. 🗣 Commented on [#1](https://github.com/pengx17/logseq-plugin-heatmap/issues/1) in [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
+1. ❗️ Closed issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+2. ❗️ Closed issue [#1](https://github.com/tallguyjenks/RWorkflow/issues/1) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
+3. ❗️ Opened issue [#147](https://github.com/adamerose/PandasGUI/issues/147) in [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI)
+4. ❗️ Opened issue [#11](https://github.com/tallguyjenks/PyRM/issues/11) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. ❗️ Opened issue [#10](https://github.com/tallguyjenks/PyRM/issues/10) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
