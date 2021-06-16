@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#81](https://github.com/BryanJenksCommunity/FAQ/issues/81) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-2. 🗣 Commented on [#81](https://github.com/BryanJenksCommunity/FAQ/issues/81) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. ❗️ Closed issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
-4. ❗️ Closed issue [#1](https://github.com/tallguyjenks/RWorkflow/issues/1) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
-5. ❗️ Opened issue [#147](https://github.com/adamerose/PandasGUI/issues/147) in [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI)
+1. ❗️ Opened issue [#12](https://github.com/tallguyjenks/PyRM/issues/12) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. ❗️ Closed issue [#81](https://github.com/BryanJenksCommunity/FAQ/issues/81) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. 🗣 Commented on [#81](https://github.com/BryanJenksCommunity/FAQ/issues/81) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. ❗️ Closed issue [#160](https://github.com/Pseudonium/Obsidian_to_Anki/issues/160) in [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki)
+5. ❗️ Closed issue [#1](https://github.com/tallguyjenks/RWorkflow/issues/1) in [tallguyjenks/RWorkflow](https://github.com/tallguyjenks/RWorkflow)
 <!--END_SECTION:activity-->
