@@ -49,10 +49,10 @@
 
 <!-- YOUTUBE:START -->
 - [TOP 6 GIT Extensions You Need In VS Code](https://www.youtube.com/watch?v=Guva-oab1pg)
-- [🎉️ 10,000 Subscriber Q&A LiveStream 🎉️](https://www.youtube.com/watch?v=Kbh8N32ti4s)
 - [How I'm Using Logseq For My DevLog & Technical Notes 👨🏻‍💻️](https://www.youtube.com/watch?v=43PKm0TfyNk)
 - [Free Code Camp Talk: Git 0 to Production](https://www.youtube.com/watch?v=NA4HAdBmfjE)
 - [What Are iframes? And Why Are They So Powerful With Obsidian?](https://www.youtube.com/watch?v=22eTkMS3i28)
+- [📝️ GingkoApp The ADHD Friendly Writing Tool 📝️](https://www.youtube.com/watch?v=dxCJHHWyNzY)
 <!-- YOUTUBE:END -->
 
 ---
