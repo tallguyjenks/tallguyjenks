@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/tallguyjenks/PyRM/pull/15) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Opened issue [#14](https://github.com/tallguyjenks/PyRM/issues/14) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. ❗️ Opened issue [#13](https://github.com/tallguyjenks/PyRM/issues/13) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. ❗️ Opened issue [#12](https://github.com/tallguyjenks/PyRM/issues/12) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. ❗️ Closed issue [#81](https://github.com/BryanJenksCommunity/FAQ/issues/81) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. ❗️ Opened issue [#16](https://github.com/tallguyjenks/PyRM/issues/16) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. 💪 Opened PR [#15](https://github.com/tallguyjenks/PyRM/pull/15) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Opened issue [#14](https://github.com/tallguyjenks/PyRM/issues/14) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. ❗️ Opened issue [#13](https://github.com/tallguyjenks/PyRM/issues/13) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. ❗️ Opened issue [#12](https://github.com/tallguyjenks/PyRM/issues/12) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
