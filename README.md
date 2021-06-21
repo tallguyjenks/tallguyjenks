@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [R Package Review Episode 7: YMLTHIS](https://www.youtube.com/watch?v=iQ_b9hd6VRA)
 - [🎉️ 10,000 Subscriber Q&A LiveStream 🎉️](https://www.youtube.com/watch?v=Kbh8N32ti4s)
 - [TOP 6 GIT Extensions You Need In VS Code](https://www.youtube.com/watch?v=Guva-oab1pg)
 - [How I'm Using Logseq For My DevLog & Technical Notes 👨🏻‍💻️](https://www.youtube.com/watch?v=43PKm0TfyNk)
 - [Free Code Camp Talk: Git 0 to Production](https://www.youtube.com/watch?v=NA4HAdBmfjE)
-- [What Are iframes? And Why Are They So Powerful With Obsidian?](https://www.youtube.com/watch?v=22eTkMS3i28)
 <!-- YOUTUBE:END -->
 
 ---
