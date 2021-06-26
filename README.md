@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/tallguyjenks/PyRM/issues/5) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Closed issue [#8](https://github.com/tallguyjenks/PyRM/issues/8) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. 🗣 Commented on [#8](https://github.com/tallguyjenks/PyRM/issues/8) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. ❗️ Closed issue [#12](https://github.com/tallguyjenks/PyRM/issues/12) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. ❗️ Opened issue [#19](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/19) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
+1. ❗️ Closed issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+2. ❗️ Closed issue [#8](https://github.com/tallguyjenks/Obsidian-For-Business/issues/8) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+3. ❗️ Closed issue [#6](https://github.com/tallguyjenks/Obsidian-For-Business/issues/6) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+4. ❗️ Closed issue [#5](https://github.com/tallguyjenks/Obsidian-For-Business/issues/5) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+5. ❗️ Closed issue [#2](https://github.com/tallguyjenks/Obsidian-For-Business/issues/2) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
 <!--END_SECTION:activity-->
