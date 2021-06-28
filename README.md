@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/tallguyjenks/PyRM/issues/23) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Opened issue [#127238](https://github.com/microsoft/vscode/issues/127238) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#5](https://github.com/ozntel/file-explorer-note-count/issues/5) in [ozntel/file-explorer-note-count](https://github.com/ozntel/file-explorer-note-count)
-4. ❗️ Closed issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-5. ❗️ Closed issue [#8](https://github.com/tallguyjenks/Obsidian-For-Business/issues/8) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+1. ❗️ Closed issue [#127238](https://github.com/microsoft/vscode/issues/127238) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗️ Opened issue [#23](https://github.com/tallguyjenks/PyRM/issues/23) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Opened issue [#127238](https://github.com/microsoft/vscode/issues/127238) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#5](https://github.com/ozntel/file-explorer-note-count/issues/5) in [ozntel/file-explorer-note-count](https://github.com/ozntel/file-explorer-note-count)
+5. ❗️ Closed issue [#9](https://github.com/tallguyjenks/Obsidian-For-Business/issues/9) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
 <!--END_SECTION:activity-->
