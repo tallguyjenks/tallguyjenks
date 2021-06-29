@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/tallguyjenks/PyRM/issues/25) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#24](https://github.com/tallguyjenks/PyRM/pull/24) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. 💪 Opened PR [#24](https://github.com/tallguyjenks/PyRM/pull/24) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. ❗️ Closed issue [#127238](https://github.com/microsoft/vscode/issues/127238) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#23](https://github.com/tallguyjenks/PyRM/issues/23) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. 🗣 Commented on [#26](https://github.com/tallguyjenks/PyRM/issues/26) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. 💪 Opened PR [#26](https://github.com/tallguyjenks/PyRM/pull/26) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Closed issue [#7](https://github.com/tallguyjenks/PyRM/issues/7) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 🗣 Commented on [#7](https://github.com/tallguyjenks/PyRM/issues/7) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🗣 Commented on [#4](https://github.com/alexanderdamiani/pytester-cov/issues/4) in [alexanderdamiani/pytester-cov](https://github.com/alexanderdamiani/pytester-cov)
 <!--END_SECTION:activity-->
