@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/tallguyjenks/PyRM/pull/29) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#28](https://github.com/tallguyjenks/PyRM/pull/28) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. 💪 Opened PR [#28](https://github.com/tallguyjenks/PyRM/pull/28) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 💪 Opened PR [#5](https://github.com/alexanderdamiani/pytester-cov/pull/5) in [alexanderdamiani/pytester-cov](https://github.com/alexanderdamiani/pytester-cov)
-5. 🎉 Merged PR [#27](https://github.com/tallguyjenks/PyRM/pull/27) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. ❗️ Closed issue [#5](https://github.com/tallguyjenks/CV/issues/5) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+2. 🗣 Commented on [#5](https://github.com/tallguyjenks/CV/issues/5) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+3. 🎉 Merged PR [#29](https://github.com/tallguyjenks/PyRM/pull/29) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 🎉 Merged PR [#28](https://github.com/tallguyjenks/PyRM/pull/28) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 💪 Opened PR [#28](https://github.com/tallguyjenks/PyRM/pull/28) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
