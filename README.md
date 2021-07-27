@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#677](https://github.com/dependabot/dependabot-script/issues/677) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
-2. 💪 Opened PR [#676](https://github.com/dependabot/dependabot-script/pull/676) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
-3. 🗣 Commented on [#374](https://github.com/dependabot/dependabot-script/issues/374) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
-4. ❗️ Closed issue [#5](https://github.com/tallguyjenks/CV/issues/5) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-5. 🗣 Commented on [#5](https://github.com/tallguyjenks/CV/issues/5) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+1. ❗️ Opened issue [#4](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin/issues/4) in [dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
+2. ❗️ Opened issue [#677](https://github.com/dependabot/dependabot-script/issues/677) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+3. 💪 Opened PR [#676](https://github.com/dependabot/dependabot-script/pull/676) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+4. 🗣 Commented on [#374](https://github.com/dependabot/dependabot-script/issues/374) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+5. ❗️ Closed issue [#5](https://github.com/tallguyjenks/CV/issues/5) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
 <!--END_SECTION:activity-->
