@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/tallguyjenks/PyRM/pull/30) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Closed issue [#4](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin/issues/4) in [dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
-3. 🗣 Commented on [#4](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin/issues/4) in [dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
-4. ❗️ Opened issue [#4](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin/issues/4) in [dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
-5. ❗️ Opened issue [#677](https://github.com/dependabot/dependabot-script/issues/677) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+1. ❗️ Closed issue [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+2. 🗣 Commented on [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+3. ❗️ Opened issue [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
+4. 🎉 Merged PR [#30](https://github.com/tallguyjenks/PyRM/pull/30) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. ❗️ Closed issue [#4](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin/issues/4) in [dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
 <!--END_SECTION:activity-->
