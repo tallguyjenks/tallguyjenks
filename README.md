@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-2. ❗️ Closed issue [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-3. 🗣 Commented on [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
-4. ❗️ Opened issue [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
-5. 🎉 Merged PR [#30](https://github.com/tallguyjenks/PyRM/pull/30) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. ❗️ Opened issue [#25](https://github.com/mrjackphil/obsidian-jump-to-link/issues/25) in [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link)
+2. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+3. ❗️ Closed issue [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+4. 🗣 Commented on [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+5. ❗️ Opened issue [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
 <!--END_SECTION:activity-->
