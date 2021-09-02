@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/EddieHubCommunity/gh-action-open-source-labels/issues/19) in [EddieHubCommunity/gh-action-open-source-labels](https://github.com/EddieHubCommunity/gh-action-open-source-labels)
-2. 🎉 Merged PR [#31](https://github.com/tallguyjenks/PyRM/pull/31) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. ❗️ Opened issue [#25](https://github.com/mrjackphil/obsidian-jump-to-link/issues/25) in [mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link)
-4. 🗣 Commented on [#32](https://github.com/blacksmithgu/obsidian-dataview/issues/32) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-5. ❗️ Closed issue [#109](https://github.com/BryanJenksCommunity/FAQ/issues/109) in [BryanJenksCommunity/FAQ](https://github.com/BryanJenksCommunity/FAQ)
+1. 🎉 Merged PR [#32](https://github.com/tallguyjenks/PyRM/pull/32) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. ❗️ Reopened issue [#1](https://github.com/tallguyjenks/PyRM/issues/1) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Reopened issue [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. ❗️ Reopened issue [#4](https://github.com/tallguyjenks/PyRM/issues/4) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. ❗️ Reopened issue [#5](https://github.com/tallguyjenks/PyRM/issues/5) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
