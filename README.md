@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/tallguyjenks/PyRM/pull/32) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. ❗️ Reopened issue [#1](https://github.com/tallguyjenks/PyRM/issues/1) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. ❗️ Reopened issue [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. ❗️ Reopened issue [#4](https://github.com/tallguyjenks/PyRM/issues/4) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. ❗️ Reopened issue [#5](https://github.com/tallguyjenks/PyRM/issues/5) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. 🎉 Merged PR [#33](https://github.com/tallguyjenks/PyRM/pull/33) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. 🎉 Merged PR [#32](https://github.com/tallguyjenks/PyRM/pull/32) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Reopened issue [#1](https://github.com/tallguyjenks/PyRM/issues/1) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. ❗️ Reopened issue [#3](https://github.com/tallguyjenks/PyRM/issues/3) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. ❗️ Reopened issue [#4](https://github.com/tallguyjenks/PyRM/issues/4) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
