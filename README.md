@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/tallguyjenks/PyRM/issues/34) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 💪 Opened PR [#2](https://github.com/K-Mertyris/Squasher/pull/2) in [K-Mertyris/Squasher](https://github.com/K-Mertyris/Squasher)
-3. ❗️ Opened issue [#1](https://github.com/K-Mertyris/Squasher/issues/1) in [K-Mertyris/Squasher](https://github.com/K-Mertyris/Squasher)
-4. 🎉 Merged PR [#33](https://github.com/tallguyjenks/PyRM/pull/33) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. 🎉 Merged PR [#32](https://github.com/tallguyjenks/PyRM/pull/32) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. 🎉 Merged PR [#1](https://github.com/tallguyjenks/template/pull/1) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
+2. 🎉 Merged PR [#35](https://github.com/tallguyjenks/PyRM/pull/35) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. ❗️ Opened issue [#34](https://github.com/tallguyjenks/PyRM/issues/34) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 💪 Opened PR [#2](https://github.com/K-Mertyris/Squasher/pull/2) in [K-Mertyris/Squasher](https://github.com/K-Mertyris/Squasher)
+5. ❗️ Opened issue [#1](https://github.com/K-Mertyris/Squasher/issues/1) in [K-Mertyris/Squasher](https://github.com/K-Mertyris/Squasher)
 <!--END_SECTION:activity-->
