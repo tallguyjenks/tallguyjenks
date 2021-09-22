@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
-2. 💪 Opened PR [#3](https://github.com/K-Mertyris/Exercism/pull/3) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
-3. 🗣 Commented on [#67](https://github.com/liamcain/obsidian-periodic-notes/issues/67) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
-4. 🎉 Merged PR [#1](https://github.com/tallguyjenks/obsidian_cli/pull/1) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-5. 🎉 Merged PR [#1](https://github.com/tallguyjenks/template/pull/1) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
+1. 🗣 Commented on [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+2. ❗️ Opened issue [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+3. 💪 Opened PR [#3](https://github.com/K-Mertyris/Exercism/pull/3) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
+4. 🗣 Commented on [#67](https://github.com/liamcain/obsidian-periodic-notes/issues/67) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
+5. 🎉 Merged PR [#1](https://github.com/tallguyjenks/obsidian_cli/pull/1) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
 <!--END_SECTION:activity-->
