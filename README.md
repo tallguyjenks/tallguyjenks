@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/K-Mertyris/Exercism/issues/10) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
-2. 🗣 Commented on [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
-3. ❗️ Opened issue [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
-4. 💪 Opened PR [#3](https://github.com/K-Mertyris/Exercism/pull/3) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
-5. 🗣 Commented on [#67](https://github.com/liamcain/obsidian-periodic-notes/issues/67) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
+1. 💪 Opened PR [#5](https://github.com/rsanjabi/short-term-rentals-warehouse/pull/5) in [rsanjabi/short-term-rentals-warehouse](https://github.com/rsanjabi/short-term-rentals-warehouse)
+2. ❗️ Opened issue [#10](https://github.com/K-Mertyris/Exercism/issues/10) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
+3. 🗣 Commented on [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+4. ❗️ Opened issue [#3](https://github.com/obsidian-community/obsidian-hub/issues/3) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+5. 💪 Opened PR [#3](https://github.com/K-Mertyris/Exercism/pull/3) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
 <!--END_SECTION:activity-->
