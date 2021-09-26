@@ -71,9 +71,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/ahmadawais/Emoji-Log/issues/45) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
-2. 🗣 Commented on [#44](https://github.com/ahmadawais/Emoji-Log/issues/44) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
-3. 🗣 Commented on [#676](https://github.com/dependabot/dependabot-script/issues/676) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
-4. 🎉 Merged PR [#36](https://github.com/tallguyjenks/PyRM/pull/36) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. 💪 Opened PR [#36](https://github.com/tallguyjenks/PyRM/pull/36) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. 🗣 Commented on [#7](https://github.com/obsidian-community/obsidian-hub/issues/7) in [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub)
+2. 🗣 Commented on [#45](https://github.com/ahmadawais/Emoji-Log/issues/45) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+3. 🗣 Commented on [#44](https://github.com/ahmadawais/Emoji-Log/issues/44) in [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
+4. 🗣 Commented on [#676](https://github.com/dependabot/dependabot-script/issues/676) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+5. 🎉 Merged PR [#36](https://github.com/tallguyjenks/PyRM/pull/36) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
