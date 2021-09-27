@@ -48,11 +48,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [✅️ Taskade: A Swiss Army Knife of Productivity & Collaboration](https://www.youtube.com/watch?v=SDek26MdujI)
 - [🐇️Research Rabbit: The Best Academic Tool of 2021 (Research Paper Discovery Will Never Be The Same!)](https://www.youtube.com/watch?v=cWn3CgmoZlI)
 - [Morgen My New Favorite Calendar App 📅️](https://www.youtube.com/watch?v=mYp10MTsFwQ)
 - [👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️ [Copious Timestamps] 🏷️](https://www.youtube.com/watch?v=wB89lJs5A3s)
 - [My Obsidian Kindle Notes Workflow](https://www.youtube.com/watch?v=GKj6y7nKlxY)
-- [R Package Review Episode 7: YMLTHIS](https://www.youtube.com/watch?v=iQ_b9hd6VRA)
 <!-- YOUTUBE:END -->
 
 ---
