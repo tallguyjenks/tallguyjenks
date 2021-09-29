@@ -21,9 +21,6 @@
   <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
   </a>
-  <a href="https://www.twitch.tv/tallguyjenks">
-    <img src="https://img.icons8.com/material-outlined/24/689d6a/twitch.png"/>
-  </a>
   <a href="https://orcid.org/0000-0002-9604-3069">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
