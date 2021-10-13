@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/tallguyjenks/fla.sh/pull/43) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-2. 🗣 Commented on [#42](https://github.com/tallguyjenks/fla.sh/issues/42) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-3. 🗣 Commented on [#1](https://github.com/tallguyjenks/PyRM/issues/1) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#2](https://github.com/tallguyjenks/obsidian_cli/pull/2) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-5. 🎉 Merged PR [#2](https://github.com/tallguyjenks/template/pull/2) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
+1. 🗣 Commented on [#40](https://github.com/K-Mertyris/Exercism/issues/40) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
+2. 🎉 Merged PR [#43](https://github.com/tallguyjenks/fla.sh/pull/43) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+3. 🗣 Commented on [#42](https://github.com/tallguyjenks/fla.sh/issues/42) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. 🗣 Commented on [#1](https://github.com/tallguyjenks/PyRM/issues/1) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🎉 Merged PR [#2](https://github.com/tallguyjenks/obsidian_cli/pull/2) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
 <!--END_SECTION:activity-->
