@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
-- [YouTube #Shorts | PKM Vocabulary: PKM](https://www.youtube.com/watch?v=6__SZ93Ybss)
-- [✅️ Taskade: A Swiss Army Knife of Productivity & Collaboration](https://www.youtube.com/watch?v=SDek26MdujI)
-- [🐇️Research Rabbit: The Best Academic Tool of 2021 (Research Paper Discovery Will Never Be The Same!)](https://www.youtube.com/watch?v=cWn3CgmoZlI)
-- [Morgen My New Favorite Calendar App 📅️](https://www.youtube.com/watch?v=mYp10MTsFwQ)
-- [👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️ [Copious Timestamps] 🏷️](https://www.youtube.com/watch?v=wB89lJs5A3s)
+- [YouTube #Shorts | PKM Vocabulary: Atomic Notes](https://www.youtube.com/watch?v=IG9aOeJDlOw)
+- [YouTube #Shorts | PKM Vocabulary: Evergreen Notes](https://www.youtube.com/watch?v=WpwRxZWRmTU)
+- [YouTube #Shorts | PKM Vocabulary: Zettelkasten](https://www.youtube.com/watch?v=eiSRphBvf4c)
+- [YouTube #Shorts | PKM Vocabulary: Literature Notes](https://www.youtube.com/watch?v=syljrpUPsZc)
+- [YouTube #Shorts | PKM Vocabulary: MOC](https://www.youtube.com/watch?v=5vSH2n-PnMQ)
 <!-- YOUTUBE:END -->
 
 ---
