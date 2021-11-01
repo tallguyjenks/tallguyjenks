@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tallguyjenks/obsidian_cli/pull/3) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-2. 🎉 Merged PR [#3](https://github.com/tallguyjenks/template/pull/3) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
-3. 🎉 Merged PR [#38](https://github.com/tallguyjenks/PyRM/pull/38) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🗣 Commented on [#40](https://github.com/K-Mertyris/Exercism/issues/40) in [K-Mertyris/Exercism](https://github.com/K-Mertyris/Exercism)
-5. 🎉 Merged PR [#43](https://github.com/tallguyjenks/fla.sh/pull/43) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+1. ❌ Closed PR [#1](https://github.com/tallguyjenks/Arch-Bootstrap/pull/1) in [tallguyjenks/Arch-Bootstrap](https://github.com/tallguyjenks/Arch-Bootstrap)
+2. 💪 Opened PR [#1](https://github.com/tallguyjenks/Arch-Bootstrap/pull/1) in [tallguyjenks/Arch-Bootstrap](https://github.com/tallguyjenks/Arch-Bootstrap)
+3. 🎉 Merged PR [#3](https://github.com/tallguyjenks/obsidian_cli/pull/3) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+4. 🎉 Merged PR [#3](https://github.com/tallguyjenks/template/pull/3) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
+5. 🎉 Merged PR [#38](https://github.com/tallguyjenks/PyRM/pull/38) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
