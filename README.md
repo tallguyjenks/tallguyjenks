@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/tallguyjenks/Obsidian-For-Business/issues/14) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+1. 🗣 Commented on [#56](https://github.com/EddieHubCommunity/gh-action-community/issues/56) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
 2. 🗣 Commented on [#14](https://github.com/tallguyjenks/Obsidian-For-Business/issues/14) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-3. 🗣 Commented on [#15](https://github.com/tallguyjenks/Obsidian-For-Business/issues/15) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-4. 🗣 Commented on [#2115](https://github.com/github/super-linter/issues/2115) in [github/super-linter](https://github.com/github/super-linter)
-5. ❌ Closed PR [#1](https://github.com/tallguyjenks/Arch-Bootstrap/pull/1) in [tallguyjenks/Arch-Bootstrap](https://github.com/tallguyjenks/Arch-Bootstrap)
+3. 🗣 Commented on [#14](https://github.com/tallguyjenks/Obsidian-For-Business/issues/14) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+4. 🗣 Commented on [#15](https://github.com/tallguyjenks/Obsidian-For-Business/issues/15) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+5. 🗣 Commented on [#2115](https://github.com/github/super-linter/issues/2115) in [github/super-linter](https://github.com/github/super-linter)
 <!--END_SECTION:activity-->
