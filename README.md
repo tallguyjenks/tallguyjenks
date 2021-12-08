@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/dobrovolsky/obsidain-structure/issues/10) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
-2. ❗️ Opened issue [#9](https://github.com/dobrovolsky/obsidain-structure/issues/9) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
-3. ❗️ Opened issue [#8](https://github.com/dobrovolsky/obsidain-structure/issues/8) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
-4. 🎉 Merged PR [#16](https://github.com/tallguyjenks/Obsidian-For-Business/pull/16) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
-5. ❗️ Closed issue [#14](https://github.com/tallguyjenks/Obsidian-For-Business/issues/14) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+1. 🎉 Merged PR [#17](https://github.com/tallguyjenks/Obsidian-For-Business/pull/17) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+2. ❗️ Opened issue [#10](https://github.com/dobrovolsky/obsidain-structure/issues/10) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
+3. ❗️ Opened issue [#9](https://github.com/dobrovolsky/obsidain-structure/issues/9) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
+4. ❗️ Opened issue [#8](https://github.com/dobrovolsky/obsidain-structure/issues/8) in [dobrovolsky/obsidain-structure](https://github.com/dobrovolsky/obsidain-structure)
+5. 🎉 Merged PR [#16](https://github.com/tallguyjenks/Obsidian-For-Business/pull/16) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
 <!--END_SECTION:activity-->
