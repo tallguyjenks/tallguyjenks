@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/tallguyjenks/CV/pull/6) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-2. 💪 Opened PR [#6](https://github.com/tallguyjenks/CV/pull/6) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-3. ❗️ Opened issue [#2024](https://github.com/dendronhq/dendron/issues/2024) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-4. ❗️ Opened issue [#105](https://github.com/aidenlx/media-extended/issues/105) in [aidenlx/media-extended](https://github.com/aidenlx/media-extended)
-5. 🎉 Merged PR [#17](https://github.com/tallguyjenks/Obsidian-For-Business/pull/17) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+1. ❗️ Opened issue [#2029](https://github.com/dendronhq/dendron/issues/2029) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+2. ❗️ Opened issue [#2028](https://github.com/dendronhq/dendron/issues/2028) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+3. 🎉 Merged PR [#6](https://github.com/tallguyjenks/CV/pull/6) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+4. 💪 Opened PR [#6](https://github.com/tallguyjenks/CV/pull/6) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+5. ❗️ Opened issue [#2024](https://github.com/dendronhq/dendron/issues/2024) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 <!--END_SECTION:activity-->
