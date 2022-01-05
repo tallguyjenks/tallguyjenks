@@ -70,7 +70,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 2. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-3. ❗️ Closed issue [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-4. 🗣 Commented on [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-5. ❗️ Opened issue [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+3. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+4. ❗️ Closed issue [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+5. 🗣 Commented on [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 <!--END_SECTION:activity-->
