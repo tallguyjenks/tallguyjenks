@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1984](https://github.com/dendronhq/dendron/issues/1984) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-2. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+1. 💪 Opened PR [#1](https://github.com/nickmilo/LYT-Mode/pull/1) in [nickmilo/LYT-Mode](https://github.com/nickmilo/LYT-Mode)
+2. 🗣 Commented on [#1984](https://github.com/dendronhq/dendron/issues/1984) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 3. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 4. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
-5. ❗️ Closed issue [#2033](https://github.com/dendronhq/dendron/issues/2033) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
+5. 🗣 Commented on [#2031](https://github.com/dendronhq/dendron/issues/2031) in [dendronhq/dendron](https://github.com/dendronhq/dendron)
 <!--END_SECTION:activity-->
