@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [🌱️ Dendron: A Unique Approach To Knowledge Management 🌱️](https://www.youtube.com/watch?v=nfvx8rv77NA)
 - [New Quiet Fidget Toy! &lpar;Ono Roller&rpar;](https://www.youtube.com/watch?v=1sCzYhDzYtg)
 - [🎉️ 20,000 Subscriber Q&amp;A LiveStream 🎉️](https://www.youtube.com/watch?v=S5g5keyYGe0)
 - [Introduction To SQL &amp; Databases](https://www.youtube.com/watch?v=Vzj9S0XpPbI)
 - [My Homelab Server Rack Tour &lpar; It’s Taller Than Me! &rpar; 🖥️](https://www.youtube.com/watch?v=-2uD9fcobTA)
-- [THE SERVER RACK ARRIVED!](https://www.youtube.com/watch?v=6V3csodI2Ls)
 <!-- YOUTUBE:END -->
 
 ---
