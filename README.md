@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/tallguyjenks/PyRM/pull/54) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#10](https://github.com/tallguyjenks/obsidian_cli/pull/10) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-3. 🎉 Merged PR [#10](https://github.com/tallguyjenks/template/pull/10) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
-4. 🎉 Merged PR [#53](https://github.com/tallguyjenks/PyRM/pull/53) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. 🎉 Merged PR [#52](https://github.com/tallguyjenks/PyRM/pull/52) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+1. ❗️ Closed issue [#2](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/2) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+2. ❗️ Closed issue [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+3. 🗣 Commented on [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+4. ❗️ Closed issue [#4](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/4) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+5. 🗣 Commented on [#4](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/4) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
 <!--END_SECTION:activity-->
