@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/2) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
-2. ❗️ Closed issue [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
-3. 🗣 Commented on [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
-4. ❗️ Closed issue [#4](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/4) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
-5. 🗣 Commented on [#4](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/4) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+1. 🗣 Commented on [#676](https://github.com/dependabot/dependabot-script/issues/676) in [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script)
+2. ❗️ Closed issue [#2](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/2) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+3. ❗️ Closed issue [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+4. 🗣 Commented on [#5](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/5) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
+5. ❗️ Closed issue [#4](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice/issues/4) in [Bryan-Jenks-Home-Lab/us_bank_microservice](https://github.com/Bryan-Jenks-Home-Lab/us_bank_microservice)
 <!--END_SECTION:activity-->
