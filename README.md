@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/tallguyjenks/PyRM/pull/56) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#12](https://github.com/tallguyjenks/obsidian_cli/pull/12) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-3. 🎉 Merged PR [#12](https://github.com/tallguyjenks/template/pull/12) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
-4. 💪 Opened PR [#12](https://github.com/tallguyjenks/template/pull/12) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
-5. 🎉 Merged PR [#11](https://github.com/tallguyjenks/obsidian_cli/pull/11) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+1. 🎉 Merged PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
+2. 💪 Opened PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
+3. 🎉 Merged PR [#56](https://github.com/tallguyjenks/PyRM/pull/56) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 🎉 Merged PR [#12](https://github.com/tallguyjenks/obsidian_cli/pull/12) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+5. 🎉 Merged PR [#12](https://github.com/tallguyjenks/template/pull/12) in [tallguyjenks/template](https://github.com/tallguyjenks/template)
 <!--END_SECTION:activity-->
