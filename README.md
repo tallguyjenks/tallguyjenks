@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/tallguyjenks/PyRM/pull/57) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
-3. 💪 Opened PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
-4. 🎉 Merged PR [#56](https://github.com/tallguyjenks/PyRM/pull/56) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. 🎉 Merged PR [#12](https://github.com/tallguyjenks/obsidian_cli/pull/12) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+1. ❗️ Opened issue [#23](https://github.com/tallguyjenks/Obsidian-For-Business/issues/23) in [tallguyjenks/Obsidian-For-Business](https://github.com/tallguyjenks/Obsidian-For-Business)
+2. 🗣 Commented on [#1581](https://github.com/github/super-linter/issues/1581) in [github/super-linter](https://github.com/github/super-linter)
+3. 🎉 Merged PR [#57](https://github.com/tallguyjenks/PyRM/pull/57) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+4. 🎉 Merged PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
+5. 💪 Opened PR [#1](https://github.com/tallguyjenks/DevLog/pull/1) in [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog)
 <!--END_SECTION:activity-->
