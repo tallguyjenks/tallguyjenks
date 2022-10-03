@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/tallguyjenks/obsidian_cli/pull/15) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-2. 🎉 Merged PR [#14](https://github.com/tallguyjenks/obsidian_cli/pull/14) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-3. 🎉 Merged PR [#60](https://github.com/tallguyjenks/PyRM/pull/60) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#13](https://github.com/Bryan-Jenks-Home-Lab/template/pull/13) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-5. ❗️ Closed issue [#30](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/30) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+1. ❗️ Closed issue [#7](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/7) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+2. ❗️ Closed issue [#6](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/6) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+3. 🎉 Merged PR [#15](https://github.com/tallguyjenks/obsidian_cli/pull/15) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+4. 🎉 Merged PR [#14](https://github.com/tallguyjenks/obsidian_cli/pull/14) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
+5. 🎉 Merged PR [#60](https://github.com/tallguyjenks/PyRM/pull/60) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
