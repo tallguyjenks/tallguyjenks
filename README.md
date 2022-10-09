@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Improve Your PKM Quick Capture With Hints](https://www.youtube.com/watch?v=_rXnnEIA6XA)
 - [NFC Tags 🏷️ | What Are They And How Can They Help With ADHD?!](https://www.youtube.com/watch?v=_YnGgtHZXEA)
 - [Channel updates and what I’m up to at the moment](https://www.youtube.com/watch?v=S8Eni3TsK7I)
 - [Obsidian Media Extended: The Best Way To Take Notes On Videos 🎥️](https://www.youtube.com/watch?v=GQXVWtNkeZw)
 - [✅️ How I Use Todoist To Run My Life ✅️](https://www.youtube.com/watch?v=eaOQ-CZffDM)
-- [Top 5 Favorite ADHD Apps &amp; Tools 🧠️🛠️](https://www.youtube.com/watch?v=lJqj4CaPJ9E)
 <!-- YOUTUBE:END -->
 
 ---
