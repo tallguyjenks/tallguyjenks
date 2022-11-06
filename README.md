@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/9) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
-2. 🎉 Merged PR [#63](https://github.com/tallguyjenks/PyRM/pull/63) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-3. 🎉 Merged PR [#61](https://github.com/tallguyjenks/PyRM/pull/61) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#62](https://github.com/tallguyjenks/PyRM/pull/62) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-5. ❗️ Closed issue [#13](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/13) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+1. ❗️ Closed issue [#5](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/5) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+2. 🗣 Commented on [#5](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/5) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+3. ❗️ Closed issue [#9](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/9) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+4. 🎉 Merged PR [#63](https://github.com/tallguyjenks/PyRM/pull/63) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🎉 Merged PR [#61](https://github.com/tallguyjenks/PyRM/pull/61) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
 <!--END_SECTION:activity-->
