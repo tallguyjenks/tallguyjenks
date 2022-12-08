@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
-2. 🗣 Commented on [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
-3. 🎉 Merged PR [#64](https://github.com/tallguyjenks/PyRM/pull/64) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#16](https://github.com/tallguyjenks/obsidian_cli/pull/16) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-5. ❗️ Closed issue [#5](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/5) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+1. 🗣 Commented on [#111](https://github.com/aidenlx/media-extended/issues/111) in [aidenlx/media-extended](https://github.com/aidenlx/media-extended)
+2. ❗️ Closed issue [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
+3. 🗣 Commented on [#14](https://github.com/jplattel/open-note-to-window-title/issues/14) in [jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
+4. 🎉 Merged PR [#64](https://github.com/tallguyjenks/PyRM/pull/64) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🎉 Merged PR [#16](https://github.com/tallguyjenks/obsidian_cli/pull/16) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
 <!--END_SECTION:activity-->
