@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Spatial Chat: A Neurodivergent Friendly Solution For Remote Work](https://www.youtube.com/watch?v=7A8yCnBUCkI)
 - [📝️ Zotero 6 Updated Obsidian Zettelkasten Workflow For Research Paper Note-Taking 📝️](https://www.youtube.com/watch?v=mMpVMuGBGe8)
 - [Rewiring My Homelab Server Rack](https://www.youtube.com/watch?v=sYl8YKUQCAg)
 - [Improve Your PKM Quick Capture With Hints](https://www.youtube.com/watch?v=_rXnnEIA6XA)
 - [NFC Tags 🏷️ | What Are They And How Can They Help With ADHD?!](https://www.youtube.com/watch?v=_YnGgtHZXEA)
-- [Channel updates and what I’m up to at the moment](https://www.youtube.com/watch?v=S8Eni3TsK7I)
 <!-- YOUTUBE:END -->
 
 ---
