@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/tallguyjenks/PyRM/pull/66) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-2. 🎉 Merged PR [#14](https://github.com/Bryan-Jenks-Home-Lab/template/pull/14) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-3. 🎉 Merged PR [#65](https://github.com/tallguyjenks/PyRM/pull/65) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
-4. 🎉 Merged PR [#17](https://github.com/tallguyjenks/obsidian_cli/pull/17) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
-5. 🗣 Commented on [#111](https://github.com/aidenlx/media-extended/issues/111) in [aidenlx/media-extended](https://github.com/aidenlx/media-extended)
+1. 🎉 Merged PR [#67](https://github.com/tallguyjenks/PyRM/pull/67) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+2. 🎉 Merged PR [#66](https://github.com/tallguyjenks/PyRM/pull/66) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+3. 🎉 Merged PR [#14](https://github.com/Bryan-Jenks-Home-Lab/template/pull/14) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+4. 🎉 Merged PR [#65](https://github.com/tallguyjenks/PyRM/pull/65) in [tallguyjenks/PyRM](https://github.com/tallguyjenks/PyRM)
+5. 🎉 Merged PR [#17](https://github.com/tallguyjenks/obsidian_cli/pull/17) in [tallguyjenks/obsidian_cli](https://github.com/tallguyjenks/obsidian_cli)
 <!--END_SECTION:activity-->
