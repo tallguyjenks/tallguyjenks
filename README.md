@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+1. 🗣 Commented on [#46](https://github.com/tallguyjenks/fla.sh/issues/46) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 2. 🗣 Commented on [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 3. 🗣 Commented on [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-4. ❗️ Closed issue [#41](https://github.com/tallguyjenks/fla.sh/issues/41) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-5. 🗣 Commented on [#41](https://github.com/tallguyjenks/fla.sh/issues/41) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. 🗣 Commented on [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+5. ❗️ Closed issue [#41](https://github.com/tallguyjenks/fla.sh/issues/41) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 <!--END_SECTION:activity-->
