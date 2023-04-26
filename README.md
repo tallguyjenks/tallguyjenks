@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Catch Up &amp; Hang Out Stream](https://www.youtube.com/watch?v=hpRqBEB5L-Y)
 - [Channel Updates &amp; Some Big News](https://www.youtube.com/watch?v=4-d7AP07K0k)
 - [Obsidian Dataview Plugin Tutorial 101](https://www.youtube.com/watch?v=buOxN65U0qE)
 - [📝️ Best Note Taking Diagraming Tool?! -- Obsidian Canvas 🎨️](https://www.youtube.com/watch?v=M4OsNTv-wRQ)
 - [Long Time No See! Livestream](https://www.youtube.com/watch?v=qicrzLGRvoQ)
-- [Spatial Chat: A Neurodivergent Friendly Solution For Remote Work](https://www.youtube.com/watch?v=7A8yCnBUCkI)
 <!-- YOUTUBE:END -->
 
 ---
