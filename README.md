@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-2. ❗️ Closed issue [#24](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/24) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
-3. ❗️ Closed issue [#14](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/14) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
-4. 🎉 Merged PR [#1](https://github.com/CoveredCA/.github/pull/1) in [CoveredCA/.github](https://github.com/CoveredCA/.github)
-5. 💪 Opened PR [#1](https://github.com/CoveredCA/.github/pull/1) in [CoveredCA/.github](https://github.com/CoveredCA/.github)
+1. ❗️ Opened issue [#2](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/2) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+2. ❗️ Opened issue [#1](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/1) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+3. ❗️ Closed issue [#45](https://github.com/tallguyjenks/fla.sh/issues/45) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+4. ❗️ Closed issue [#24](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/24) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
+5. ❗️ Closed issue [#14](https://github.com/Bryan-Jenks-Home-Lab/TODO/issues/14) in [Bryan-Jenks-Home-Lab/TODO](https://github.com/Bryan-Jenks-Home-Lab/TODO)
 <!--END_SECTION:activity-->
