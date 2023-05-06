@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Bryan-Jenks-Home-Lab/template/pull/15) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-2. ❗️ Closed issue [#1](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/1) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-3. 🗣 Commented on [#2](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/2) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-4. ❗️ Opened issue [#2](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/2) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-5. ❗️ Opened issue [#1](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/1) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+1. 💪 Opened PR [#17](https://github.com/Bryan-Jenks-Home-Lab/template/pull/17) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+2. 🎉 Merged PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+3. 💪 Opened PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+4. 🎉 Merged PR [#15](https://github.com/Bryan-Jenks-Home-Lab/template/pull/15) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+5. ❗️ Closed issue [#1](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/issues/1) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
 <!--END_SECTION:activity-->
