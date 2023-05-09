@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Bryan-Jenks-Home-Lab/template/pull/17) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-2. 💪 Opened PR [#17](https://github.com/Bryan-Jenks-Home-Lab/template/pull/17) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-3. 🎉 Merged PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-4. 💪 Opened PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
-5. 🎉 Merged PR [#15](https://github.com/Bryan-Jenks-Home-Lab/template/pull/15) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+1. 💪 Opened PR [#3](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/3) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+2. 🎉 Merged PR [#17](https://github.com/Bryan-Jenks-Home-Lab/template/pull/17) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+3. 💪 Opened PR [#17](https://github.com/Bryan-Jenks-Home-Lab/template/pull/17) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+4. 🎉 Merged PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
+5. 💪 Opened PR [#16](https://github.com/Bryan-Jenks-Home-Lab/template/pull/16) in [Bryan-Jenks-Home-Lab/template](https://github.com/Bryan-Jenks-Home-Lab/template)
 <!--END_SECTION:activity-->
