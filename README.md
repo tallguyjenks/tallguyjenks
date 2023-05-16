@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/12) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-2. 🎉 Merged PR [#11](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/11) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-3. 🎉 Merged PR [#9](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/9) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-4. 🎉 Merged PR [#10](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/10) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
-5. 🎉 Merged PR [#8](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/8) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+1. 💪 Opened PR [#18](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/18) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+2. 🎉 Merged PR [#12](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/12) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+3. 🎉 Merged PR [#11](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/11) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+4. 🎉 Merged PR [#9](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/9) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
+5. 🎉 Merged PR [#10](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/10) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
 <!--END_SECTION:activity-->
