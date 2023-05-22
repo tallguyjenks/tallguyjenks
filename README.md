@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Obsidian Zotero Integration Plugin | Streamline Your Research Paper Workflow 📝️](https://www.youtube.com/watch?v=0hFJw0kEHlU)
 - [🧠️ Personal Knowledge Management Discussion | With Omar Khafagy](https://www.youtube.com/watch?v=bQZfBwwZ9aQ)
 - [🔖️ Obsidian Bookmarks: Select The Best From Your Vault ⭐️](https://www.youtube.com/watch?v=3X6rEOxMTbw)
 - [Catch Up &amp; Hang Out Stream &lpar;Take 2!&rpar;](https://www.youtube.com/watch?v=UFLhl0c32yU)
 - [Catch Up &amp; Hang Out Stream](https://www.youtube.com/watch?v=hpRqBEB5L-Y)
-- [Channel Updates &amp; Some Big News](https://www.youtube.com/watch?v=4-d7AP07K0k)
 <!-- YOUTUBE:END -->
 
 ---
