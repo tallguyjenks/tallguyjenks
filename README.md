@@ -69,7 +69,7 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/jpontdia/mule-micorp-customer-sapi/pull/1) in [jpontdia/mule-micorp-customer-sapi](https://github.com/jpontdia/mule-micorp-customer-sapi)
-2. 🗣 Commented on [#1](https://github.com/alexandramartinez/mule-bat-example/issues/1) in [alexandramartinez/mule-bat-example](https://github.com/alexandramartinez/mule-bat-example)
+2. 🗣 Commented on [#1](https://github.com/alexandramartinez/mule-bat-example/issues/1#issuecomment-1550479122) in [alexandramartinez/mule-bat-example](https://github.com/alexandramartinez/mule-bat-example)
 3. ❗ Opened issue [#1](https://github.com/alexandramartinez/mule-bat-example/issues/1) in [alexandramartinez/mule-bat-example](https://github.com/alexandramartinez/mule-bat-example)
 4. 🎉 Merged PR [#18](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/18) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
 5. 💪 Opened PR [#18](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/18) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
