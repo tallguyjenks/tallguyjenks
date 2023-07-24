@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Scrintal | A hybrid note-taking &amp; mind mapping whiteboard](https://www.youtube.com/watch?v=NidVm81TQAc)
 - [♾️ Unmasking Autism By Dr. Devon Price | Note Taking Stream 📝️](https://www.youtube.com/watch?v=JJ_dfm-4kKM)
 - [Diagnosed Autistic at 30](https://www.youtube.com/watch?v=ZY35BhDVWNs)
 - [Therarobe Is VERY Neurodivergent Friendly](https://www.youtube.com/watch?v=4pgaJGaVuco)
 - [Malcolm Gladwell Book Reviews](https://www.youtube.com/watch?v=6OoVU_WWQXY)
-- [🧲 Magnet Putty Fidget Toy](https://www.youtube.com/watch?v=ktOnO1IZLGw)
 <!-- YOUTUBE:END -->
 
 ---
