@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [How I&#39;m Organizing My Autism Research With Obsidian Canvas](https://www.youtube.com/watch?v=obnwnKUufuU)
 - [Reacting To Autism Memes | Feeling Personally Attacked](https://www.youtube.com/watch?v=8nEITPocVsI)
 - [Working With An Obsidian Template Vault](https://www.youtube.com/watch?v=lQ7yQwk8sPg)
 - [Tella - Screen recording for creators](https://www.youtube.com/watch?v=Zt-1lCv69Jw)
 - [Goblin Tools For The Neurodiverse &lpar;Autism / ADHD Edition&rpar;](https://www.youtube.com/watch?v=ZRtVnisJC7Q)
-- [Scrintal | A hybrid note-taking &amp; mind mapping whiteboard](https://www.youtube.com/watch?v=NidVm81TQAc)
 <!-- YOUTUBE:END -->
 
 ---
