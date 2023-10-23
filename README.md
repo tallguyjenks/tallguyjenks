@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Supercharge Your [[Links]] In Obsidian | Comprehensive Guide](https://www.youtube.com/watch?v=97V7bLj-ysg)
 - [My Obsidian Template Vault: Exclusive Learning Resources via GitHub Sponsors 💖️](https://www.youtube.com/watch?v=O05MA6XfjAA)
 - [🏆️ TOP 10 BEST Obsidian Plugins 🔌️](https://www.youtube.com/watch?v=A3ndLQ3akyY)
 - [📅️ My Fully Automated Daily Note Review System In Obsidian 🤖️](https://www.youtube.com/watch?v=5k4LfCVY0yQ)
 - [Making A Personal Knowledge Management Dashboard In Obsidian Canvas 🎨️](https://www.youtube.com/watch?v=5-fq7PngOys)
-- [How I&#39;m Organizing My Autism Research With Obsidian Canvas](https://www.youtube.com/watch?v=obnwnKUufuU)
 <!-- YOUTUBE:END -->
 
 ---
