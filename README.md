@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Scrintal Course | Objects, Organization, and Scaling](https://www.youtube.com/watch?v=22CmSY26itk)
 - [📂️ How I Use The Obsidian Database Folder Plugin 🔌️](https://www.youtube.com/watch?v=OYJgDZomOyo)
 - [🎧️ Obsidian Podcast Workflow After The Death Of Airr.io 💀️](https://www.youtube.com/watch?v=6OoLU-twTQg)
 - [📜️ Zotero Research Paper Workflow | Full Comprehensive Setup Guide 🛠️](https://www.youtube.com/watch?v=m-J-v0JdL3w)
 - [🌟️ Supercharge Your [[Links]] In Obsidian | Comprehensive Guide Part 2 🔗️](https://www.youtube.com/watch?v=8Bhv1T82TIU)
-- [Supercharge Your [[Links]] In Obsidian | Comprehensive Guide](https://www.youtube.com/watch?v=97V7bLj-ysg)
 <!-- YOUTUBE:END -->
 
 ---
