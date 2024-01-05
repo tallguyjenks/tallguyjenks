@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/plankanban/planka/issues/113#issuecomment-1879172495) in [plankanban/planka](https://github.com/plankanban/planka)
-2. 🎉 Merged PR [#48](https://github.com/tallguyjenks/fla.sh/pull/48) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
-3. 🗣 Commented on [#1034](https://github.com/SilentVoid13/Templater/issues/1034#issuecomment-1707704469) in [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater)
+1. ❗ Opened issue [#8351](https://github.com/firefly-iii/firefly-iii/issues/8351) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. 🗣 Commented on [#113](https://github.com/plankanban/planka/issues/113#issuecomment-1879172495) in [plankanban/planka](https://github.com/plankanban/planka)
+3. 🎉 Merged PR [#48](https://github.com/tallguyjenks/fla.sh/pull/48) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 4. 🎉 Merged PR [#18](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/18) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
 5. 💪 Opened PR [#18](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app/pull/18) in [Bryan-Jenks-Home-Lab/etl_strong_app](https://github.com/Bryan-Jenks-Home-Lab/etl_strong_app)
 <!--END_SECTION:activity-->
