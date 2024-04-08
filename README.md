@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Scrintal Course 4 | Collaboration &amp; Teams](https://www.youtube.com/watch?v=V-7Aeb6CDBs)
 - [Scrintal Course 3 | Research Workflow](https://www.youtube.com/watch?v=lG6f184P9B4)
 - [Exploring the AI features in Document360](https://www.youtube.com/watch?v=4-uhOBb_ies)
 - [How to Migrate Existing Knowledge Base Content to Document360](https://www.youtube.com/watch?v=-GITiJC2c8o)
 - [Scrintal Course 2 | Cards, Content, and Formatting](https://www.youtube.com/watch?v=xbTNM5OKw3E)
-- [Scrintal Course | Objects, Organization, and Scaling](https://www.youtube.com/watch?v=22CmSY26itk)
 <!-- YOUTUBE:END -->
 
 ---
