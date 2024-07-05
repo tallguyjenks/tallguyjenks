@@ -68,7 +68,7 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/tallguyjenks/fla.sh/issues/49#issuecomment-1961638842) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
+1. 🗣 Commented on [#7](https://github.com/tallguyjenks/CV/issues/7#issuecomment-2209712016) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
 2. 🔒 Closed issue [#49](https://github.com/tallguyjenks/fla.sh/issues/49) in [tallguyjenks/fla.sh](https://github.com/tallguyjenks/fla.sh)
 3. 🗣 Commented on [#6637](https://github.com/monicahq/monica/issues/6637#issuecomment-1947304063) in [monicahq/monica](https://github.com/monicahq/monica)
 4. ❗ Opened issue [#8351](https://github.com/firefly-iii/firefly-iii/issues/8351) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
