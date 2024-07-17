@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/tallguyjenks/CV/issues/8) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-2. 🔒 Closed issue [#7](https://github.com/tallguyjenks/CV/issues/7) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-3. ❗ Opened issue [#1](https://github.com/CoveredCA/common-devops/issues/1) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
-4. 🗣 Commented on [#7](https://github.com/tallguyjenks/CV/issues/7#issuecomment-2209712016) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
-5. 🗣 Commented on [#113](https://github.com/plankanban/planka/issues/113#issuecomment-1879172495) in [plankanban/planka](https://github.com/plankanban/planka)
+1. ❗ Opened issue [#2](https://github.com/CoveredCA/common-devops/issues/2) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+2. 🔒 Closed issue [#8](https://github.com/tallguyjenks/CV/issues/8) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+3. 🔒 Closed issue [#7](https://github.com/tallguyjenks/CV/issues/7) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+4. ❗ Opened issue [#1](https://github.com/CoveredCA/common-devops/issues/1) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+5. 🗣 Commented on [#7](https://github.com/tallguyjenks/CV/issues/7#issuecomment-2209712016) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
 <!--END_SECTION:activity-->
