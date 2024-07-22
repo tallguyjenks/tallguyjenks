@@ -68,9 +68,9 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2243583543) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
-2. ❗ Opened issue [#6](https://github.com/umahmood/pushover-actions/issues/6) in [umahmood/pushover-actions](https://github.com/umahmood/pushover-actions)
-3. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2240506110) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
-4. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2239519088) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
-5. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2239496088) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+1. 🗣 Commented on [#1](https://github.com/CoveredCA/common-devops/issues/1#issuecomment-2243742322) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+2. 🔒 Closed issue [#1](https://github.com/CoveredCA/common-devops/issues/1) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+3. 🔒 Closed issue [#2](https://github.com/CoveredCA/common-devops/issues/2) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+4. 🗣 Commented on [#2](https://github.com/CoveredCA/common-devops/issues/2#issuecomment-2243730874) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
+5. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2243583543) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
 <!--END_SECTION:activity-->
