@@ -45,11 +45,11 @@
 <h3 align="center"><a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a> Latest YouTube Videos <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1"><img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/></a></h3>
 
 <!-- YOUTUBE:START -->
+- [Bryan Jenks Homelab Services Tour 2024 🖥️](https://www.youtube.com/watch?v=eg2ep1BH7ek)
 - [Coping With Autism Comorbidities &lpar;Anxiety and Feeding &amp; Sleeping Disorders&rpar;](https://www.youtube.com/watch?v=4obovzV_nEk)
 - [Scrintal Course 5 | PowerUsage Features](https://www.youtube.com/watch?v=A_B5JU-lcSE)
 - [Scrintal Course 4 | Collaboration &amp; Teams](https://www.youtube.com/watch?v=V-7Aeb6CDBs)
 - [Scrintal Course 3 | Research Workflow](https://www.youtube.com/watch?v=lG6f184P9B4)
-- [Exploring the AI features in Document360](https://www.youtube.com/watch?v=4-uhOBb_ies)
 <!-- YOUTUBE:END -->
 
 ---
