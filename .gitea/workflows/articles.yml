@@ -4,14 +4,16 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-articles:
     name: Update this repo's README with Bryan's latest articles
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@1.2.5
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "ARTICLES"
           feed_list: "https://medium.com/feed/@tallguyjenks"
