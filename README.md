@@ -68,8 +68,8 @@
 <h3 align="center"><a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/></a> Latest Activity <a href= "https://github.com/tallguyjenks/"><img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/></a></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/umahmood/pushover-actions/issues/6) in [umahmood/pushover-actions](https://github.com/umahmood/pushover-actions)
-2. 🔒 Closed issue [#8](https://github.com/tallguyjenks/CV/issues/8) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
+1. 🗣 Commented on [#82](https://github.com/nowthis/sankeymatic/issues/82#issuecomment-2868314219) in [nowthis/sankeymatic](https://github.com/nowthis/sankeymatic)
+2. 🗣 Commented on [#224](https://github.com/mulesoft-catalyst/metrics-toolkit/issues/224#issuecomment-2852578836) in [mulesoft-catalyst/metrics-toolkit](https://github.com/mulesoft-catalyst/metrics-toolkit)
 3. 🔒 Closed issue [#7](https://github.com/tallguyjenks/CV/issues/7) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
 4. 🗣 Commented on [#7](https://github.com/tallguyjenks/CV/issues/7#issuecomment-2209712016) in [tallguyjenks/CV](https://github.com/tallguyjenks/CV)
 5. 🗣 Commented on [#3](https://github.com/CoveredCA/common-devops/issues/3#issuecomment-2243583543) in [CoveredCA/common-devops](https://github.com/CoveredCA/common-devops)
